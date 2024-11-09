@@ -1,0 +1,3013 @@
+Document ID,medical_record_text,aci_doc_id,ICD10
+240503191033444EHGFED,"CHIEF COMPLAINT
+
+Upper respiratory infection.
+
+HISTORY OF PRESENT ILLNESS
+
+Andrew Campbell is a 59-year-old male with a past medical history significant for depression, type 2 diabetes, and hypertension. He presents today with an upper respiratory infection.
+
+The patient reports that he has been doing a bit of work out in the yard in the last week or so. He started to feel really tired and short of breath. The patient denies coughing up anything, but he feels like he will soon be coughing up phlegm. He denies having a fever, but he felt a little warm. He attributed this to exerting himself. He reports that his elbows hurt quite a bit. He notes his knees were pretty tired and he felt some tension around his knees. The patient attributes these symptoms to lifting heavy bags. He has not been wearing a mask as much recently. He believes that he caught his first cold and his symptoms have worsened. He has had both of his COVID vaccinations.
+
+He denies any history of seasonal allergies.
+
+Regarding his depression, he states it has been a crazy year and a half. He was a little concerned about that, but for the most part, he has been doing well with it. His wife got him into barre classes and this has been relaxing.
+
+Regarding his diabetes, he has been monitoring his sugar levels while he is at work, but is not as consistent on Saturdays and Sundays. His diet has been pretty good for the most part, except for some house parties. They have not been elevated since his respiratory symptoms began.
+
+The patient has been monitoring his blood pressure at home. He reports that he is very regular with monitoring his blood pressure during the week, though less consistently on weekends. He reports his blood pressure has been under control. He has continued to utilize lisinopril 20 mg, daily.
+
+The patient denies nausea, vomiting, diarrhea.
+
+REVIEW OF SYSTEMS
+
+• Constitutional: Denies fever.
+
+• Cardiovascular: Endorses dyspnea on exertion.
+
+• Respiratory: Endorses shortness of breath and cough.
+
+• Gastrointestinal: Denies nausea or diarrhea.
+
+• Musculoskeletal: Endorses bilateral elbow and knee pain.
+
+• Psychiatric: Endorses depression.
+
+PHYSICAL EXAMINATION
+
+• Respiratory: Scattered rhonchi bilaterally, clears with cough.
+
+• Cardiovascular: No murmurs, gallops, or rubs. No extra heart sounds.
+
+• Musculoskeletal: Edema in the bilateral lower extremities. Pain to palpation of the bilateral elbows.
+
+RESULTS
+
+X-ray of the chest is unremarkable. No airspace disease. No signs of pneumonia.
+
+Hemoglobin A1c is elevated at 8.
+
+ASSESSMENT AND PLAN
+
+Andrew Campbell is a 59-year-old male with a past medical history significant for depression, type 2 diabetes, and hypertension. He presents today with an upper respiratory infection.
+
+Upper respiratory infection.
+
+• Medical Reasoning: I believe he has contracted a viral syndrome. His chest x-ray was unremarkable and he has received both doses of the COVID-19 vaccination.
+
+• Additional Testing: We will obtain a COVID-19 test to rule this out.
+
+• Medical Treatment: I recommend he use Robitussin for cough, as well as ibuprofen or Tylenol if he develops a fever.
+
+Depression.
+
+• Medical Reasoning: He has been practicing barre classes and is doing well overall.
+
+• Medical Treatment: I offered medication or psychotherapy, but the patient opted to defer at this time.
+
+Diabetes type 2.
+
+• Medical Reasoning: His blood glucose levels have been well controlled based on home monitoring, but his recent hemoglobin A1c was elevated.
+
+• Additional Testing: We will repeat a hemoglobin A1c in 4 months.
+
+• Medical Treatment: We will increase his metformin to 1000 mg twice daily.
+
+Hypertension.
+
+• Medical Reasoning: He has been compliant with lisinopril and his blood pressures have been well controlled based on home monitoring.
+
+• Additional Testing: We will order a lipid panel.
+
+• Medical Treatment: He will continue on lisinopril 20 mg once daily. This was refilled today.
+
+Follow up: I would like to see him back in approximately 4 months.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.",test_1,"['J06.9', 'F32.A', 'E11.9', 'I10']"
+240503191034168BAEHHG,"CHIEF COMPLAINT
+
+Annual exam.
+
+HISTORY OF PRESENT ILLNESS
+
+Andrea Roberts is a 52-year-old female with a past medical history significant for rheumatoid arthritis, atrial fibrillation, and reflux, who presents today for her annual exam. It has been a year since she was last seen.
+
+The patient states she is doing well. She has been walking, exercising, and doing yoga, which has helped with her arthritis. She denies issues with stiffness, pain, or flare ups over the last year. The patient has continued utilizing methotrexate 2.5 mg once a week and denies issues with that.
+
+In terms of her atrial fibrillation, she endorses continued palpitations. The last episode she had was about 1 week ago. She has noticed that when she starts to get stressed they start to flare up again. She has tried meditation and running with her dog for stress relief, however these have not been helpful. The patient had called last month and had an event monitor done.
+
+Regarding her GERD, she has continued to utilize Protonix 40 mg a day. The patient has cut out soda, which seemed to help. She has not had a flare up in over 5 months.
+
+The patient endorses nasal congestion because of her allergies. She denies chest pain, shortness of breath, nausea, and vomitting.
+
+REVIEW OF SYSTEMS
+
+• Ears, Nose, Mouth and Throat: Endorses nasal congestion from allergies.
+
+• Cardiovascular: Denies chest pain or dyspnea. Endorses palpitations.
+
+• Respiratory: Denies shortness of breath.
+
+• Musculoskeletal: Denies joint pain.
+
+PHYSICAL EXAMINATION
+
+• Respiratory: Lungs are clear to auscultation bilaterally. No wheezes, rales, or rhonchi.
+
+• Cardiovascular: Regular rate and rhythm. Slight 2/6 systolic ejection murmur.
+
+• Musculoskeletal: No lower extremity edema. Edema and erythema of the right elbow. Pain to palpation of the right elbow.
+
+RESULTS
+
+Event monitor: Positive for conversion pause.
+
+Autoimmune panel: Normal. Well controlled rheumatoid arthritis.
+
+ASSESSMENT AND PLAN
+
+Andrea Roberts is a 52-year-old female with a past medical history significant for rheumatoid arthritis, atrial fibrillation, and reflux, who presents today for her annual exam. It has been a year since she was last seen.
+
+Rheumatoid arthritis.
+
+• Medical Reasoning: The patient has remained active and has been compliant with methotrexate once weekly. Her recent autoimmune panel was normal.
+
+• Medical Treatment: She will continue on methotrexate 2.5 mg once weekly. This was refilled today.
+
+• Specialist Referrals: If she needs a referral back to the rheumatologist, she will let me know.
+
+Atrial fibrillation.
+
+• Medical Reasoning: She continues to experience episodes of palpitations. Her most recent episode was about 1 week ago. She is in normal sinus rhythm today, but her recent cardiac event monitor demonstrated a conversion pause.
+
+• Specialist Referrals: We will refer her to cardiology for a cardiac ablation.
+
+GERD.
+
+• Medical Reasoning: She has been compliant with dietary modifications and denies any episodes in approximately 5 months.
+
+• Medical Treatment: Continue on Protonix 40 mg daily.
+
+• Patient Education and Counseling: She could continue with dietary modifications and avoid known dietary triggers.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.",test_2,"['M06.9', 'I48.91', 'K21.9']"
+240503191034914IEDGHD,"CHIEF COMPLAINT
+
+ER follow-up.
+
+HISTORY OF PRESENT ILLNESS
+
+Albert Powell is a 62-year-old male with a past medical history significant for depression, type 2 diabetes, and kidney transplant. He is here today for an emergency room follow-up.
+
+The patient states he was not staying on top of his blood sugar readings and felt "" woozy "" over the weekend. His wife was concerned that his levels were elevated and wanted to take him to the emergency room. He was not admitted to the hospital. He reports that his mother is in the hospital and he has been eating poorly. He was not monitoring his blood sugars and what he was eating. When they got home from the visit he felt a lot better. Since then, he has been following his diet pretty closely. He continues Lantus insulin at bedtime.
+
+Regarding his kidney transplant and has been doing pretty well. The patient has been pretty diligent about taking immunotherapy medication and following orders. The last time he saw Dr. Reyes was about 3 weeks ago and everything seemed to be fine.
+
+Regarding his depression, the patient states it has been about a year and a half, but he has been pretty good with that. He has his moments, but as long as he finds some time to relax in the afternoon and then it seems to work out. He thinks he would probably want to continue that at least for a couple more months and see how it goes. His wife got him into meditation recently and he finds that relaxing so he feels he would like to continue that for a couple more months and see how it goes.
+
+The patient denies any chest pain, shortness of breath, lightheadedness or dizziness.
+
+REVIEW OF SYSTEMS
+
+• Cardiovascular: Denies chest pain or dyspnea.
+
+• Respiratory: Denies shortness of breath.
+
+• Neurological: Denies lightheadedness or dizziness.
+
+• Psychiatric: Endorses depression.
+
+PHYSICAL EXAMINATION
+
+• Constitutional: in no apparent distress.
+
+• Neck: No carotid bruits appreciable.
+
+• Respiratory: Lungs are clear to auscultation bilaterally. No wheezes, rales, or rhonchi.
+
+• Cardiovascular: Grade 2/6 systolic ejection murmur.
+
+• Musculoskeletal: 1+ edema in the bilateral lower extremities.
+
+RESULTS
+
+Fasting glucose is elevated at 162.
+
+Hemoglobin A1c is elevated at 8.
+
+ASSESSMENT AND PLAN
+
+Albert Powell is a 62-year-old male with a past medical history significant for depression, type 2 diabetes, and kidney transplant. He is here today for an emergency room follow-up.
+
+Hyperglycemia.
+
+• Medical Reasoning: He was recently seen in the emergency department with elevated blood glucose levels. He admits to dietary indiscretion prior to this, but has since improved his diet. His recent blood glucose level was 162, and his recent hemoglobin A1c was 8.
+
+• Additional Testing: Repeat hemoglobin A1c in a few months.
+
+• Medical Treatment: Increase Lantus to 20 units at night.
+
+• Patient Education and Counseling: I advised him to continue monitoring his blood glucose levels at home and report those to me, as we may need to make further adjustments to his medication.
+
+Depression.
+
+• Medical Reasoning: He reports personal stressors over the past year and a half but is doing well overall. He recently started meditating.
+
+• Medical Treatment: He should continue his current management strategies. We will hold off on medication and therapy at this time.
+
+• Patient Education and Counseling: The patient was encouraged to contact me if he needs anything.
+
+Status post renal transplant.
+
+• Medical Reasoning: His kidney function appears stable and he has been compliant with his immunotherapy medications.
+
+• Medical Treatment: Continue seeing Dr. Reyes for management of his immunosuppression medication.
+
+• Patient Education and Counseling: He knows to reach out to me if he needs anything.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.",test_3,"['E11.65', 'F32.A', 'Z94.0']"
+240503191035602IAFHDG,"CHIEF COMPLAINT
+
+Annual exam.
+
+HISTORY OF PRESENT ILLNESS
+
+Jerry Nguyen a 54-year-old male with a past medical history significant for osteoporosis, and multiple sclerosis, who presents for an annual exam.
+
+The patient states he has been traveling all over the country. He notes it has been a stressful summer and adjusting to everything in the fall.
+
+The patient reports a lack of sleep. He has tried melatonin, meditation, and stretching every morning, but nothing has helped.
+
+For treatment of his osteoporosis, he is on Fosamax. He denies any issues with his joints. He denies any recent broken bones.
+
+Regarding his multiple sclerosis, he last saw the neurologist 6 months ago. He is taking his medication and denies any issues with this. Previously, he experienced right leg weakness, however, this has resolved.
+
+He does have some lingering issues with his right knee after previous surgery, but nothing out of the ordinary.
+
+The patient denies any chest pain or shortness of breath.
+
+REVIEW OF SYSTEMS
+
+• Cardiovascular: Denies chest pain or dyspnea.
+
+• Respiratory: Denies shortness of breath.
+
+• Musculoskeletal: Endorses right knee discomfort.
+
+• Neurological: Endorses insomnia.
+
+PHYSICAL EXAMINATION
+
+• Respiratory: Lungs are clear to auscultation bilaterally. No wheezes, rales, or rhonchi.
+
+• Musculoskeletal: Weakness in the lower extremities, 4/5 on the right and 3/5 on the left. Reflexes are good. Arthritic changes in the right knee.
+
+RESULTS
+
+X-ray of the right knee demonstrates some arthritic changes.
+
+ASSESSMENT
+
+Jerry Nguyen a 54-year-old male with a past medical history significant for osteoporosis, and multiple sclerosis, who presents for an annual exam.
+
+PLAN
+
+Osteoporosis.
+
+• Medical Reasoning: The patient is doing well with Fosamax.
+
+• Medical Treatment: Continue Fosamax 1 tab per week. Eleven refills were ordered today.
+
+Multiple Sclerosis.
+
+• Medical Reasoning: The patient is experiencing weakness of the bilateral lower extremities. He has been seeing his neurologist on a consistent basis and has been compliant with medication.
+
+• Medical Treatment: He will continue to follow up with his neurologist and comply with his medication regimen.
+
+Right knee arthritis.
+
+• Medical Reasoning: The patient recently underwent knee surgery. A recent right knee x-ray demonstrated some arthritic changes.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.",test_4,"['M81.0', 'G35', 'M17.11']"
+240503191036368DDFEFD,"CC:
+
+Right arm pain.
+
+HPI:
+
+Ms. Martinez is a 43-year-old female who presents today for an evaluation of right arm pain after she hitting her arm on a pole while playing tennis. She had mild swelling at the time. There is pain with motion. She denies any numbness or tingling in her hand. She has a past medical history of allergies and takes Flonase.
+
+EXAM
+
+Examination of the left wrist shows tenderness over the distal radius and pain with flexion of the wrist and thumb.
+
+RESULTS
+
+X-rays of the left wrist show no obvious signs of acute fracture or other abnormality.
+
+IMPRESSION
+
+Right wrist sprain.
+
+PLAN
+
+At this point, I discussed the diagnosis and treatment options with the patient. I have recommended ice and anti-inflammatory medications. I am prescribing Motrin, 800 mg to take 3 times a day with food. She will follow up with me in 1 week or as needed.",test_5,['S63.501A']
+240503191044893BCFCEG,"CHIEF COMPLAINT
+
+Psoriatic arthritis management.
+
+HISTORY OF PRESENT ILLNESS
+
+Judy Gomez is a 61-year-old female who presents to the clinic today for ongoing management of psoriatic arthritis.
+
+Ms. Gomez is currently taking methotrexate and prednisone 1 mg daily. She believes methotrexate has been relieving her joint pain.
+
+The patient reports she has been doing well since her last visit. She has been able to decrease her prednisone dose to 1 mg daily; however, she took 2 mg for a couple of days due to increased pain in her bilateral feet.
+
+The patient states when she received her first COVID-19 vaccine she held her methotrexate and felt ""horrible"" all week until the next Wednesday when she took it. She felt better by the end of the week. She did not hold methotrexate for her second COVID-19 vaccine.
+
+PHYSICAL EXAM
+
+Musculoskeletal: Full range of motion. Dystrophy of all the nails of the toes.
+
+ASSESSMENT
+
+• Psoriatic arthritis.
+
+• High risk medication use.
+
+PLAN
+
+Psoriatic arthritis.
+
+Stable on methotrexate and prednisone 1 mg daily. The patient will discontinue prednisone and continue methotrexate.
+
+INSTRUCTIONS
+
+The patient will follow up in 3 months.",test_17,['L40.50']
+240617165646170AIBBBE,"CHIEF COMPLAINT
+
+Heart murmur.
+
+HISTORY OF PRESENT ILLNESS
+
+Diana Scott is a 100-year-old female who presents today for evaluation of a heart murmur.
+
+Ms. Scott has been recently diagnosed with a “new, worrisome” heart murmur. She denies chest pain, syncope, palpitations, fevers, or chills. She reports shortness of breath if she walks too fast, too long, or tries to drink a whole glass of water without stopping. The patient requires a walker and can walk around her cul-de-sac or to the end of the driveway without shortness of breath. Compared to 6 months ago, her functioning has declined 20-30%. Prior to 6 months, symptoms were absent. For the past month she has been experiencing severe, bilateral leg pain, which was limiting her mobility. She did see her doctor last week who completed a chest x-ray and prescribed pain medicine. Occasionally, she feels dizzy but takes medication for this and it subsides. Her ankles have been swelling for the past 6 months, but the swelling fluctuates day to day. Her weight has been slowly decreasing over the past year, with her current weight at 120 pounds, previous weight was 130 pounds. She also reports feeling “overly tired” but attributes this to her polypharmacy.
+
+The patient is unsure if she has completed any cardiovascular testing.
+
+PAST HISTORY
+
+Medical
+
+Hyperlipidemia.
+
+Hypertension.
+
+Hypothyroid.
+
+SOCIAL HISTORY
+
+Requires a walker to ambulate.
+
+FAMILY HISTORY
+
+Son had a myocardial infarction.
+
+Brother had a stroke and has diabetes.
+
+Older sister has an unknown heart problem.
+
+Family is positive for heart disease.
+
+CURRENT MEDICATIONS
+
+Levothyroxine.
+
+Lisinopril.
+
+Simvastatin 20 mg.
+
+Meclizine.
+
+Amlodipine.
+
+ALLERGIES
+
+No known drug allergies.
+
+PHYSICAL EXAM
+
+Constitutional
+
+Elderly, no acute distress.
+
+Cardiovascular
+
+Normal S1, S2 preserved, irregular rhythm and normal rate. 4/6 systolic murmur at the RUSB with mild radiation to the carotids.
+
+Musculoskeletal
+
+Lower extremity edema
+
+Neurologic
+
+Gait normal for age.
+
+RESULTS
+
+EKG
+
+Impression: Sinus rhythm with frequent PVCs as well as anterior septal infarct pattern.
+
+ASSESSMENT
+
+• Cardiac murmur.
+
+• PVCs.
+
+• Hypertension.
+
+• Hyperlipidemia.
+
+• Hypothyroid.
+
+• Lightheadedness/dizziness.
+
+PLAN
+
+Cardiac murmur
+
+Diana has a 4/6 systolic murmur at the RUSB with mild radiation to the carotids. This is most likely representative of aortic stenosis. She does have symptoms including a significant increase in fatigue over the last 6 months, shortness of breath, and some lightheadedness. This could be due to severe aortic stenosis, however, her S2 is relatively preserved which would be more consistent with moderate. She is unsure if she has had an echocardiogram, although some of her outside records do note diastolic dysfunction, so it is possible that she had one as some point in the past. We will order a repeat echocardiogram today to assess overall cardiac structure and function as well as valvular disease. If she does truly have severe aortic stenosis, I briefly discussed a TAVR procedure today as she is not a candidate for a surgical AVR given her age co-morbidities and frailty. She is unsure if she would be interested in this, but we will assess first with the echocardiogram and then discuss further at follow-up. She does not appear significantly volume overloaded today.
+
+PVCs
+
+Her referral mentions tachycardia. Her EKG today shows sinus rhythm with frequent PVCs as well as anterior septal infarct pattern. She does not have any significant palpitations. We will check an echocardiogram to assess overall cardiac structure and function. Depending on results as well as the severity of her aortic stenosis, we will need to consider an ischemic evaluation or possibly a heart monitor to assess the overall burden of PVCs. At this point, she is asymptomatic, so we will start with the echocardiogram only.
+
+Hypertension
+
+She is taking amlodipine and lisinopril. We will continue these as is.
+
+Hyperlipidemia
+
+This is managed by her PCP. She is on simvastatin 20 mg. She is having bilateral leg pain over the past month. This could be related to the simvastatin possibly and given her age, it would not be unreasonable to stop the simvastatin, but I will defer to her PCP. She has no known CAD but if we were to do a TAVR evaluation and this was discovered, a statin would be indicated.
+
+Hypothyroidism
+
+She takes levothyroxine for supplementation and will continue this as is.
+
+Lightheadedness/dizziness
+
+She is on meclizine for this. It is possible that some of her lightheadedness and dizziness are related to the aortic stenosis, and we will do an echocardiogram as noted above. She is also having some PVCs on her EKG, which could be contributing, but she does not feel palpitations. We will consider a monitor but start with the echocardiogram first as noted above.
+
+INSTRUCTIONS
+
+Follow-up in 3 to 4 weeks after her echocardiogram is done to discuss results and next steps.",test_18,"['R01.1', 'I49.3', 'I10', 'E78.5', 'E03.9', 'R42']"
+240617165646915CBDEHD,"CHIEF COMPLAINT
+
+Shortness of breath.
+
+HISTORY OF PRESENT ILLNESS
+
+Charles Sullivan is a pleasant 45-year-old male who presents to the clinic today for the evaluation of shortness of breath. The onset of his symptoms began 2 years ago. He has noticed that his breathing is not what it used to be. He describes an increased need to catch his breath. The patient also reports he gets “mid-shortness of breath” without reason. He has been seen at an urgent care where he received a nebulizer treatment and was prescribed an inhaler, which he uses when his symptoms are present. The patient states his symptoms are aggravated by living with a cat in his house and are present even when the cat is not around or is outside. He has experienced epiphora with rheum present that he attributes to allergies. He has had diarrhea after consuming large amounts of alcohol. He denies any symptoms at this time including shortness of breath, rash, nausea, vomiting, and lip or throat swelling. The patient denies any previous issues with allergies.
+
+He enjoys hunting.
+
+VITALS
+
+Oxygen Saturation: Normal on room air.
+
+PHYSICAL EXAM
+
+CONSTITUTIONAL: In no apparent distress.
+
+HEAD: No angioedema.
+
+RESPIRATORY: No audible stridor. I do appreciate some faint expiratory wheezing bilaterally in all lung fields.
+
+SKIN: No rash.
+
+RESULTS
+
+A chest x-ray, obtained and reviewed today is normal.
+
+Pulmonary function test, obtained and reviewed today is normal.
+
+ASSESSMENT
+
+Newly diagnosed allergic asthma.
+
+PLAN
+
+After reviewing the patient's examination, radiographic findings, and pulmonary function test results today, I have had a lengthy discussion with him regarding his current symptoms. He will continue to use the albuterol inhaler; however, he should limit its use to when he is experiencing a severe flare-up of symptoms. I advised he should take it as soon as he starts to feel any symptoms at all. I have also prescribed the patient Singulair 10 mg to be taken once daily. This should help to decrease the occurrences of his asthma. I have also recommended we proceed with an allergy skin test to target what his triggers are in the hope that we can avoid any other management. If we unable to determine his allergens, then we may consider further testing or immunotherapy.
+
+INSTRUCTIONS
+
+The patient will follow up with me in 1 week for skin testing.",test_19,['J45.909']
+240617165647598ICAGCD,"CHIEF COMPLAINT
+
+Low back pain.
+
+HISTORY OF PRESENT ILLNESS
+
+Bryan Brooks is a pleasant 39-year-old male who presents to the clinic today for the evaluation of low back pain. He is accompanied today by his partner.
+
+Approximately 2 hours after he finished raking leaves yesterday, the patient began to feel a tightening sensation in his low back and tingling in his right foot. Prior to this, he recalls a similar episode approximately 3 years ago in which his symptoms resolved after 1 day. Ice and Advil provided no relief, but his pain is less severe when he is in a seated position and taking a hot shower helped alleviate his pain. The patient's partner reports that his pain seems to worsen when he stands up.
+
+REVIEW OF SYSTEMS
+
+Musculoskeletal: Reports low back pain.
+
+Neurological: Reports tingling in the right foot.
+
+PHYSICAL EXAM
+
+NEURO: Normal strength and sensation.
+
+MSK: Examination of the lumbar spine: No pain on extension. Some pain with flexion. Pain with palpation around L5. Dorsiflexion is normal. Pulses are equal in all extremities.
+
+RESULTS
+
+X-rays obtained and reviewed in office today were normal.
+
+ASSESSMENT
+
+Low back sprain.
+
+PLAN
+
+The examination findings and x-ray results were discussed with the patient and his partner today. I recommend we treat this conservatively with rest, meloxicam, and formal physical therapy. If he fails to improve, we can consider obtaining an MRI for further evaluation.
+
+INSTRUCTIONS
+
+The patient will follow up in 2 weeks.",test_20,['S33.5XXA']
+240617165648352FABFCE,"CHIEF COMPLAINT
+
+Right foot ulcer.
+
+HISTORY OF PRESENT ILLNESS
+
+Gregory Hernandez is a pleasant 40-year-old male who presents to the clinic today for the evaluation of a non-healing right foot ulcer. Onset of ulcer was approximately 2 months ago after walking barefoot on the beach. He reports the ulcer has recently become red and is draining. At times he will also experience throbbing pain. He has seen his primary care physician and was prescribed antibiotics, however, he has not started them yet and does not recall the name of the medication.
+
+The patient is a diabetic. He is taking medication for this, however, he does not monitor his blood sugar consistently. His last A1C was around 10.
+
+MEDICAL HISTORY
+
+Patient reports history of diabetes.
+
+REVIEW OF SYSTEMS
+
+Musculoskeletal: Reports right foot pain.
+
+Skin: Reports right foot ulcer with redness and drainage.
+
+VITALS
+
+Vital signs are normal.
+
+PHYSICAL EXAM
+
+MSK: Examination of the right foot: There is a 1 x 2 inch circular wound on the dorsal aspect laterally just proximal to the 5th MTP joint. There is some redness and drainage present as well as edema. No necrosis, odor, or bony exposure. Nontender to palpation.
+
+RESULTS
+
+3 views of the right foot were taken. These reveal no evidence of osteomyelitis.
+
+ASSESSMENT
+
+Right diabetic foot ulcer.
+
+PLAN
+
+After reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with the patient in regards to his current symptoms. I have explained to him that his x-rays did not reveal any evidence of osteomyelitis. I have recommended that we obtain an ankle brachial index to determine the blood supply in his foot. Debridement will be performed. A prescription for clindamycin 400 mg 2 times per day for 7 days will be provided as he does seem to have an infection. He will also be placed in a surgical shoe to provide increased support for the next month.
+
+INSTRUCTIONS
+
+The patient will follow up with me in 2 weeks to assess his progress and for possible repeat debridement. He has been advised to call the office if his symptoms worsen and we will get him in sooner, however, if he starts to develop a fever or necrosis he has been instructed to go to the ER.",test_21,['L97.519']
+240617165649125IDBBAC,"CHIEF COMPLAINT
+
+Left ankle pain.
+
+MEDICAL HISTORY
+
+Patient reports history significant for type 2 diabetes and hypertension.
+
+MEDICATIONS
+
+Patient reports taking metformin and Norvasc.
+
+REVIEW OF SYSTEMS
+
+Musculoskeletal: Reports left ankle pain and swelling.\ Denies left calf pain, lower left leg pain, or left knee pain.
+
+VITALS
+
+Blood pressure: 120/70 mmHg
+
+PHYSICAL EXAM
+
+Neurological
+
+- Examination: Sensation intact in left lower extremity.
+
+Neck
+
+- General Examination: No bruits.
+
+Respiratory
+
+- Auscultation of Lungs: Clear bilaterally.
+
+Cardiovascular
+
+- Examination: Pulses are normal in left lower extremity.
+
+- Auscultation of Heart: 2/6 systolic ejection murmur, unchanged from previous exam.
+
+Musculoskeletal
+
+- Examination of the left ankle: Tender to palpation over the lateral malleolus and fifth metatarsal. Trace edema. Mild erythema. Pain with valgus stress testing.
+
+RESULTS
+
+Hemoglobin A1c: 6.8
+
+ASSESSMENT AND PLAN
+
+1. Left ankle pain.
+
+- Medical Reasoning: Given the nature of her injury, I believe this is an ankle sprain.
+
+- Patient Education and Counseling: I advised the patient that I will contact her with the results of her x-ray, and that if these reveal a fracture, we will put in a referral to orthopedics for further evaluation.
+
+- Medical Treatment: X-ray ordered to rule out fracture. We will place her in an air splint and have her ambulate with crutches to avoid weightbearing until we get the x-ray results. She will start Naprosyn 500 mg twice daily for pain control. Continue with ice and elevation.
+
+2. Diabetes type 2.
+
+- Medical Reasoning: This appears to be well controlled with her current regimen.
+
+- Patient Education and Counseling: I encouraged her to keep her appointment with ophthalmology for her diabetic eye exam.
+
+- Medical Treatment: We will keep her on her current dose of metformin and order a repeat hemoglobin A1c. We will also obtain a set of baseline labs.
+
+3. Hypertension.
+
+- Medical Reasoning: She is doing well with Norvasc.
+
+- Patient Education and Counseling: I encouraged her to continue with home monitoring and knows to contact the office if needed.
+
+- Medical Treatment: We will keep her on her current dose of Norvasc. A refill was sent for this today.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.",test_22,"['M25.571', 'E11.9', 'I10']"
+240617165649837EEEGEE,"HISTORY OF PRESENT ILLNESS
+
+Wayne Jenkins is a pleasant 43-year-old male who presents to the clinic today for the evaluation of a right foot wound, onset 2 to 3 weeks ago. He was seen by his primary care physician who referred him to our office. His last visit with a podiatrist was 2 years ago, however they moved, and he has been unable to get another podiatrist. He denies any specific injury.
+
+The patient purchased a new pair of shoes and was breaking them in prior to traveling. Initially, he did not feel that the shoes were too tight, however a blister formed on his right foot. The patient does have neuropathy and notes this might be why he did not notice the tightness. His blister soon became a wound and he was seen by his PCP. He was placed on a round of antibiotics, which he completed yesterday. He denies any changes to the appearance of the wound. The patient denies pain or drainage. His sock will occasionally stick to his wound, regardless of if he has a Band-Aid covering it. The patient has discontinued the use of these shoes. Occasionally, he has issues with stability, which was a primary purpose of purchasing these shoes. He denies any fever or chills.
+
+Regarding his diabetes, his last hemoglobin A1C was 8.
+
+REVIEW OF SYSTEMS
+
+Constitutional: Denies fever and chills.
+
+Skin: Reports right foot wound.
+
+Neurological: Reports neuropathy.
+
+VITALS
+
+Temperature: 98.1.
+
+Heart rate: 72.
+
+Respiration: 16.
+
+Blood pressure: 110/65 mm Hg.
+
+PHYSICAL EXAM
+
+CV: Palpable bilateral femoral and popliteal pulses. No palpable DP or PT pulses but Doppler signs are present. No evidence of fluid collection.
+
+SKIN: On the right foot, there is a 1 x 2 inch circular wound on the dorsal aspect of the lateral right foot that is just proximal to the 5th MTP joint. There is some yellow slough present with minimal granulation tissue. No surrounding erythema or cellulitis. No necrosis. No odor.
+
+RESULTS
+
+3 views of the right foot were taken today. These reveal no evidence of osteomyelitis.
+
+ASSESSMENT
+
+1. Right foot diabetic ulcer.
+
+2. Diabetes.
+
+PLAN
+
+After reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with the patient regarding his current symptoms. I have explained to him that his x-rays did not reveal any evidence of osteomyelitis. At this time, I have recommended that we obtain an ankle brachial index ABI to determine the blood supply to his foot to see if he can heal this wound. I have also performed a debridement in the office to remove some of the dead tissue. I have prescribed a collagenase ointment to be applied to the wound 1 time daily and instructed him to cover with a dry sterile dressing. He will continue this until we see the wound shrinking and the nice pink tissue is present. I have also recommended that the patient be placed in a surgical shoe to take pressure off the area. I do not think that antibiotics are needed at this time. He may need to see a vascular specialist if the ABI indicates that his blood supply is not optimal for wound healing.
+
+Regarding his diabetes, I explained the need for controlling his diabetes and the effects this will have on wound healing. I have recommended a diabetic consultation to discuss diet modifications to bring his hemoglobin A1c to a better level.
+
+INSTRUCTIONS
+
+The patient will follow up with me in 2 weeks to check on his progress.",test_23,"['L97.519', 'E11.9']"
+240617165650566HCHDBE,"CHIEF COMPLAINT
+
+Right knee injury.
+
+HISTORY OF PRESENT ILLNESS
+
+William Russell is a pleasant 57-year-old male who presents to the clinic today for the evaluation of a right knee injury. He has a past medical history significant for hypertension and type 2 diabetes.
+
+Approximately 1 week ago, the patient sustained an injury to his right knee while at a trampoline park. He explains that he was jumping on a trampoline when he heard a snap, followed by instant pain in the lateral aspect of his knee. This is not a common activity for him, and he admits that he is inconsistent with exercise. As far as treatment, he has been elevating his knee and taking Tylenol without significant relief of his pain. He has not tried applying heat or ice to the area.
+
+In terms of his hypertension, the patient admits that he did not purchase a blood pressure cuff as previously recommended. While he does not monitor his blood pressures at home, he has been compliant with lisinopril 20 mg.
+
+His diabetes appears to be stable based on home monitoring, although he is only checking his blood glucose levels 4 to 5 times per week. He does not follow any specific diet plan, but he does try to make healthier choices such as limiting his carbohydrate intake. He has also been taking his metformin 500 mg as prescribed.
+
+REVIEW OF SYSTEMS
+
+Musculoskeletal: Reports right knee pain.
+
+VITALS
+
+Blood pressure: 180/80 mmHg
+
+PHYSICAL EXAM
+
+CV: Regular rate and rhythm. No murmurs.
+
+RESPIRATORY:
+
+Lungs are clear bilaterally.
+
+MSK: Examination of the right knee: Mild tenderness to palpation at the lateral aspect. Ecchymosis and edema along the lateral aspect. No effusion. Decent range of motion. Pain with movement.
+
+RESULTS
+
+X-rays of the right knee were obtained and reviewed. These reveal no evidence of fracture or bony abnormality.
+
+ASSESSMENT
+
+1. Right knee pain, lateral ligament strain.
+
+2. Hypertension.
+
+3. Diabetes type 2.
+
+PLAN
+
+After reviewing the patient's examination and radiographic findings today, his symptoms appear to be consistent with a lateral ligament strain of the right knee. I am going to prescribe meloxicam 15 mg once daily for pain and swelling. I also put in a referral for physical therapy so he can work on strengthening the muscles around the area and prevent any further injury. We can consider further imaging if he continues to have pain, but I explained that this is a common injury that typically heals on it's own.
+
+For his hypertension, I'm concerned that his blood pressure is not well controlled at this time, so we may need to modify his medication. I'm going to order an echocardiogram for further evaluation, but I want him to continue taking his lisinopril 20 mg for now.
+
+For his diabetes, he stated that he has been measuring his blood glucose levels 4 to 5 times per week, but I want him to start measuring them 2 to 3 times per day. His hemoglobin A1c levels should provide more detail as far as his long-term progress so we will order that today. I'm also going to order a lipid panel and we can determine if any adjustments need to be made to his medication. In the meantime, he should continue taking metformin 500 mg.",test_24,"['S83.421A', 'I10', 'E11.9']"
+240617165651353HDHAHI,"HISTORY OF PRESENT ILLNESS
+
+Matthew Hill is a pleasant 44-year-old male who presents to the clinic today for the evaluation of back pain. The patient was referred from his primary care physician. The onset of his pain began 30 years ago, when he fell off of a roof. He endorses that it was very bothersome and he was unable to play football. He states that he was told that he may have a fracture at that time. The patient reports that his pain has worsened 1 month ago. He locates his pain to his lower back, which radiates into his left hip, down his left leg, on the side of his calf, and into his left big toe. The patient describes his pain as an ""electrical tooth ache"" that radiates down his entire left leg. He notes that he has to use a cane to walk as his left foot drags when he walks. He rates his pain level as a 6 to 8 out of 10, however it can get to a 13 out of 10 at its worst. He states that he did not take any medication before his appointment so it did not affect his pain during our visit. The patient notes that he was in the waiting room for 30 minutes today and states that it made his symptoms worse. His pain is aggravated by standing, ambulating, coughing, and sneezing. The patient states that he is unable to tie his shoes secondary to the pain. The patient states that his pain is alleviated by lying down. He also reports weakness in his bilateral legs and his back. The patient denies any numbness or tingling. The patient has attempted NSAIDs in the past without relief. He has also attended physical therapy.
+
+PHYSICAL EXAM
+
+CONSTITUTIONAL: Vitals look good.
+
+MSK: Examination of the lumbar spine: No bony abnormalities. No redness. No bruising present. Pain with palpation at the L4 vertebrae. Positive for pain with flexion and extension of the back. 4/5 strength on the left, 5/5 strength on the right. Reflexes are brisk. Motor and sensory are intact throughout the bilateral lower extremities.
+
+RESULTS
+
+The MRI of the lumbar spine was reviewed today. It revealed a disc herniation at the level of the L4-5 vertebrae. It is associated with some nerve root impingement.
+
+ASSESSMENT
+
+Acute disc herniation at L4-5 with nerve root impingement.
+
+PLAN
+
+I have recommended that we treat the patient conservatively with a epidural steroid injection and formal physical therapy. With the patient's consent, we will proceed with a epidural steroid injection into the lumbar spine today. He will follow up with me in 4 weeks to check on his progress.",test_25,['M51.16']
+240617165652105FFDFCH,"CHIEF COMPLAINT
+
+Hepatitis C.
+
+SOCIAL HISTORY
+
+Patient reports personal history of intravenous drug use over 15 years ago. She is currently smoking 1-2 cigarettes per day, previously 1 to 1.5 packs per day. She also has a history of heavy alcohol use, but now drinks approximately 1 beer per day, more on the weekends.
+
+FAMILY HISTORY
+
+Patient reports family history significant for hypertension, diabetes, and depression.
+
+REVIEW OF SYSTEMS
+
+Constitutional: Reports fatigue.
+
+All other systems were reviewed and are negative.
+
+VITALS
+
+Vitals look good today.
+
+PHYSICAL EXAM
+
+Constitutional
+
+- General Appearance: in no apparent distress.
+
+Respiratory
+
+- Auscultation of Lungs: No wheezes, rales, or rhonchi.
+
+Cardiovascular
+
+- Auscultation of Heart: Regular rate. 2/6 systolic ejection murmur, unchanged.
+
+Gastrointestinal
+
+- Examination of Abdomen: No masses or tenderness. No hepatosplenomegaly.
+
+- Auscultation: Bowel sounds normal.
+
+Musculoskeletal
+
+- Examination: No edema.
+
+Integumentary
+
+- Examination: No signs of jaundice.
+
+RESULTS
+
+HCV antibody: Positive
+
+AST: 39
+
+ALT: Within normal limits
+
+Albumin: Within normal limits
+
+Bilirubin, total: Within normal limits
+
+ASSESSMENT AND PLAN
+
+1. Hepatitis C.
+
+- Medical Reasoning: Her recent blood work revealed a positive HCV antibody. She does have a history of intravenous drug use, but she has not used drugs in over 15 years.
+
+- Patient Education and Counseling: We discussed the nature of hepatitis C in detail. I advised the patient to have her spouse and children tested for hepatitis C as well.
+
+- Medical Treatment: I'm going to order additional labs including a hepatitis C RNA and HCV genotype to confirm the diagnosis, as well as a Fibroscan to assess the severity of the condition.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.
+
+INSTRUCTIONS
+
+The patient will follow up in 3 weeks.",test_26,['B19.20']
+240617165652814BAABAI,"CHIEF COMPLAINT
+
+Headaches.
+
+HISTORY OF PRESENT ILLNESS
+
+Julie Jenkins is a pleasant 33-year-old female who presents to the clinic today for the evaluation of headaches. The patient was referred from her primary care physician. The patient states that she was seen by Dr. White a few years ago and was going to obtain an MRI; however, Dr. White wanted her to see me first and urgently.
+
+The onset of her headaches began when she was a teenager. Initially, her headaches appeared during menses, however she now experiences them more frequently and with more severity. Her pain is aggravated by physical activities. The patient states that she has been trying to exercise more in order to lose weight, however she is unable to exercise for prolonged periods of time secondary to the headaches. The patient locates her pain to the right side of her head and behind her eye. She describes her pain as a pulsing sensation. She also reports intermittent ringing in her ears for the last few months. Additionally, she reports intermittent blurred vision on the lateral aspect of her vision. She denies any numbness or tingling in her hands, feet, or face.
+
+The patient enjoys running and wears either New Balance or Asics shoes.
+
+REVIEW OF SYSTEMS
+
+Neurological: Reports headaches. Denies numbness or tingling in her hands, feet, or face.
+
+VITALS
+
+Vitals are within normal limits.
+
+PHYSICAL EXAM
+
+CV: Normal head rhythm with no murmurs, rubs, or gallops.
+
+NEURO: Cranial nerves I through XII are intact distally, including a normal cranial reflex.
+
+MSK: Gait is normal.
+
+Funduscopic exam: Positive for papilledema.
+
+ASSESSMENT
+
+Headaches, concern for idiopathic intracranial hypertension.
+
+PLAN
+
+After reviewing the patient's examination today, I have had a lengthy discussion with the patient in regard to her current symptoms. I have recommended that we obtain an urgent MRI of the brain to evaluate for any other condition that could be contributing to her symptoms. We will contact her to schedule this after approved by insurance. Once the MRI results are available for review and further discussion, I will also perform a spinal tap to evaluate the pressure in the brain. I have also advised her to be seen by a neuro ophthalmologist for a complete eye exam. Questions were invited and answered today. The patient agrees to the treatment plan.
+
+INSTRUCTIONS
+
+The patient will follow up with me once the MRI results are available for review and further recommendations.",test_27,['R51.9']
+240617165653535AEIGAC,"CHIEF COMPLAINT
+
+Neck pain
+
+HISTORY OF PRESENT ILLNESS
+
+Jack Torres is a pleasant 40-year-old male who presents to the clinic today for the evaluation of neck pain. The onset of his pain began 1 week ago after he was involved in a motor vehicle accident. He states that he was hit in the back and experienced whiplash. Following the accident he did not present to the emergency room and he does not recall having any swelling or bruising at the neck. He localizes his pain to the posterior aspect of his neck. His pain level is rated at 7 out of 10. When taking ibuprofen he states his pain improves to 5 out of 10. He finds that neck range of motion exacerbates his pain. Initially after the accident he reports that he experienced a couple of headaches, but he states he has not had any recently. He denies any hearing problems or visual disturbances.
+
+SOCIAL HISTORY
+
+Patient reports that he played football years ago without any neck issues.
+
+REVIEW OF SYSTEMS
+
+Eyes: Denies visual disturbances.
+
+HENT: Denies hearing loss.
+
+Musculoskeletal: Reports neck pain.
+
+Neurological: Denies headaches.
+
+PHYSICAL EXAM
+
+NECK: No swelling noted
+
+MSK: Examination of the cervical spine: Positive pain to palpation of the soft tissues of the neck. Shoulders and back are nontender to palpation. Positive pain with flexion, rotation, and lateral bending. Severe pain with extension.
+
+RESULTS
+
+3 views of the cervical spine were taken. These reveal no evidence of any fractures or bony abnormalities.
+
+ASSESSMENT
+
+Neck strain.
+
+PLAN
+
+After reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with the patient in regards to his current symptoms. We discussed his x-rays did not reveal any signs of a fracture or bony abnormalities. Treatment options were discussed and conservative treatment has been recommended. He will begin taking Motrin 600 mg every 6 to 8 hours. A prescription for Flexeril 10 mg every 12 hours as needed was also provided. He was advised to be mindful of how he moves his neck and to be conservative to avoid straining his neck. I have also recommended that we obtain an MRI for further evaluation as the patient did not go to the emergency room following his accident. He will also be referred to either physical rehab or a chiropractor pending his MRI results.",test_28,['S16.1A']
+240617165654293DAABEB,"CHIEF COMPLAINT
+
+Right shoulder pain.
+
+HISTORY OF PRESENT ILLNESS
+
+Bobby Flores is a 56-year-old male, right-hand-dominant, male who presents to the clinic today for the evaluation of right shoulder pain.
+
+The onset of his pain began a few weeks ago, when he was performing different projects in his backyard. He states that he was sore all over the next couple of days. He locates his pain to the lateral aspect of his right shoulder. His pain is aggravated with movement. The patient denies any restriction with his arm. He also reports pain at night when he sleeps on his right side. The patient denies any numbness in his arm or hands. He has been taking Advil and icing his shoulder, which provides some relief. The patient reports a history of right shoulder pain when he was younger while playing baseball.
+
+The patient also has complaints of bilateral foot and ankle pain. He attributes this pain to the yard work he has been doing. For treatment, he has iced and elevated them, which provided some relief.
+
+REVIEW OF SYSTEMS
+
+Musculoskeletal: Positive for right shoulder pain.
+
+Neurological: Negative for numbness in hands.
+
+VITALS
+
+Temperature: 97.8 degrees F.
+
+Heart Rate: 62 BPM.
+
+Respirations:16.
+
+Blood pressure: 116/84 mm Hg.
+
+Oxygen saturation: 99 percent on room air.
+
+PHYSICAL EXAM
+
+CV: >Capillary refill is less than 3 seconds.
+
+NEURO: Normal sensation. Neurovascularly intact on the right. Sensation to touch is intact on the right shoulder.
+
+MSK: Examination of the right shoulder: Limited active and passive ROM. Tenderness at the greater tuberosity of the humerus. No tenderness at the sternoclavicular or AC joints. Good hand grip.
+
+RESULTS
+
+3 views of the right shoulder were taken. These reveal no fracture or dislocation. No abnormalities noted.
+
+ASSESSMENT
+
+1. Right shoulder rotator cuff tendinopathy.
+
+2. Bilateral foot pain.
+
+PLAN
+
+After reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with the patient in regards to his current symptoms. I have explained to him that his x-rays did not reveal any signs of a fracture. I have recommended that we obtain an MRI of the right shoulder to evaluate for a possible rotator cuff tear. I have also recommended that the patient attend formal physical therapy for 6 to 8 weeks. He can continue taking Tylenol as needed for pain. If his symptoms do not improve with physical therapy, I will recommend a cortisone injection.
+
+In regards to his bilateral feet pain, I have recommended that we treat the patient conservatively. I am recommending the patient soak his feet in an Epsom salt soak as well as elevate as needed.",test_29,"['M67.813', 'M79.671', 'M79.672']"
+240617165655053HAHCEC,"CHIEF COMPLAINT
+
+Right elbow pain.
+
+MEDICAL HISTORY
+
+Patient reports history of type 2 diabetes and mild intermittent asthma.
+
+SURGICAL HISTORY
+
+Patient reports history of cholecystectomy 10 years ago by Dr. Nelson.
+
+SOCIAL HISTORY
+
+Patient reports he has been playing tennis since high school.
+
+ALLERGIES
+
+Patient reports that he has an allergy to PENICILLIN.
+
+MEDICATIONS
+
+Patient reports taking metformin 500 mg twice a day, Flovent twice a day and albuterol as needed.
+
+REVIEW OF SYSTEMS
+
+Constitutional: Denies fever.
+
+Musculoskeletal: Reports right elbow pain.
+
+PHYSICAL EXAM
+
+Cardiovascular
+
+- Auscultation of Heart: Grade 3 out of 6 systolic ejection murmur, unchanged from prior exam.
+
+Musculoskeletal
+
+- Examination of the right upper extremity: Moderate lateral epicondylar tenderness. Moderate pain with passive range of motion. No palpable joint effusion. Mild pain with resisted extension of the right wrist.
+
+RESULTS
+
+X-ray of the right elbow taken today is reviewed and shows no acute fracture or other bony abnormality. There is no malalignment or joint effusion. Otherwise normal right elbow x-ray.
+
+ASSESSMENT AND PLAN
+
+1. Acute lateral epicondylitis of right elbow.
+
+- Medical Reasoning: Patient presents today with symptoms consistent with lateral epicondylitis secondary to overuse.
+
+- Patient Education and Counseling: The nature of the diagnosis was discussed. He was advised that this is like due to increased tennis activity and was encouraged to rest as much as possible. - Medical Treatment: Patient will discontinue playing tennis for the next 4 to 6 weeks, as well as avoid repetitive stress with the right arm. He will apply ice to the elbow for at least 20 minutes 3 times per day to reduce pain and inflammation. Right forearm brace was provided today to help with discomfort. Prescription for Ultram 50 mg once per day was also provided for pain.
+
+2. Diabetes type 2.
+
+- Medical Reasoning: His blood sugar today is not controlled.
+
+- Patient Education and Counseling: We discussed that I would like him to take his blood sugars twice a day for the next 2 weeks and to let me know how they are running so we can make additional adjustments if needed.
+
+- Medical Treatment: He will increase his metformin to 1000 mg twice a day. He will begin home blood sugar monitoring twice a day for the next 2 weeks. Hemoglobin A1c, CBC, and a Chem-12 test were ordered today.
+
+3. Mild acute intermittent asthma.
+
+- Medical Reasoning: This remains well-controlled.
+
+- Medical Treatment: The patient will continue his Flovent twice a day. Refill of albuterol provided today to be used as needed.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.
+
+INSTRUCTIONS
+
+The patient will follow-up in 4 weeks to assess his elbow and to determine if additional imaging or physical therapy is needed.",test_30,"['M77.11', 'E11.9', 'J45.20']"
+240617165655745HBGFBH,"CHIEF COMPLAINT
+
+Kidney stone.
+
+MEDICAL HISTORY
+
+Patient reports history of hypertension, diabetes, and kidney stones.
+
+MEDICATIONS
+
+Patient reports taking Norvasc 2.5 mg and metformin 500 mg.
+
+REVIEW OF SYSTEMS
+
+Constitutional: Reports insomnia.
+
+Cardiovascular: Denies chest pain.
+
+Gastrointestinal: Denies abdominal pain.
+
+Genitourinary: Denies hematuria.
+
+VITALS
+
+Blood pressure: 150/90 mm Hg
+
+PHYSICAL EXAM
+
+Respiratory
+
+- Auscultation of Lungs: Clear bilaterally. No wheezes, rales, or rhonchi.
+
+Cardiovascular
+
+- Auscultation of Heart: Grade 2/6 systolic ejection murmur, unchanged.
+
+Gastrointestinal
+
+- Examination of Abdomen: No masses or tenderness. No tenderness of the CVA.
+
+RESULTS
+
+A1c: 6.7
+
+ASSESSMENT AND PLAN
+
+1. Kidney stones.
+
+- Medical Reasoning: Patient recently experience an episode of kidney stones which is her 7th or 8th episode. Based on the patient's symptoms and exam today, I think she has likely passed her kidney stones.
+
+- Patient Education and Counseling: I advised the patient that we will obtain further testing, however, based on her recurrent episodes a referral to urology is necessary.
+
+- Medical Treatment: Urine culture and urinalysis were ordered. She will be referred to Dr. Harris in urology.
+
+2. Hypertension.
+
+- Medical Reasoning: Patient is currently stable and doing well on Norvasc 2.5 mg.
+
+- Medical Treatment: Continue Norvasc 2.5 mg. Referral to nutrition provided.
+
+3. Diabetes.
+
+- Medical Reasoning: Patient is currently stable and compliant with her metformin.
+
+- Patient Education and Counseling: She was advised to start checking her blood sugar prior to every meal.
+
+- Medical Treatment: Continue metformin 500 mg daily. Start daily blood sugar monitoring before each meal.
+
+4. Insomnia.
+
+- Medical Reasoning: The patient has a history of insomnia.
+
+- Patient Education and Counseling: We discussed proper sleep hygiene.
+
+- Medical Treatment: I have recommended she take 10 mg of melatonin as needed.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.
+
+INSTRUCTIONS
+
+Patient will return for follow-up in 3 months.",test_31,"['N20.0', 'I10', 'E11.9', 'G47.00']"
+240617165656505ABAIDB,"CHIEF COMPLAINT
+
+Asthma.
+
+MEDICAL HISTORY
+
+Patient reports history of asthma.
+
+SOCIAL HISTORY
+
+The patient denies the use of any type of cigarette or tobacco product, as well as marijuana. Occasionally, she will be at a bar that allows smoking inside, which does bother the patient. She enjoys being outside and hiking.
+
+ALLERGIES
+
+Denies seasonal allergies.
+
+MEDICATIONS
+
+Patient reports using an albuterol inhaler, 2 puffs.
+
+REVIEW OF SYSTEMS
+
+Respiratory: Reports coughing and wheezing.
+
+VITALS
+
+Blood pressure: 128/82 mm Hg.
+
+Respiratory rate: 16
+
+O2 saturation: 99% on room air.
+
+PHYSICAL EXAM
+
+Neck
+
+- General Examination: Neck is supple without lymphadenopathy. Trachea is midline. No carotid bruit.
+
+Respiratory
+
+- Auscultation of Lungs: Diminished lung sounds throughout with the occasional slight expiratory wheeze, bilaterally.
+
+Cardiovascular
+
+- Auscultation of Heart: Regular rate and rhythm. No ectopic beats. No rubs, murmurs, or gallops.
+
+Musculoskeletal
+
+- Examination: Strong bilateral radial pulses. No clubbing. Brisk capillary refill.
+
+Hematology/Lymphatic/Immunology
+
+- Palpation: No enlarged lymph nodes.
+
+RESULTS
+
+Pulmonary function test obtained today is reviewed and findings are consistent with asthma.
+
+ASSESSMENT AND PLAN
+
+1. Moderate intermittent asthma.
+
+- Medical Reasoning: The patient's symptoms and results of her PFT are consistent with moderate intermittent asthma.
+
+- Patient Education and Counseling: I explained the importance of consistency with her daily inhaler as this will help prevent daily symptoms and the need to use the albuterol inhaler as frequently. My hope is that she has less acute exacerbations as she continues to use her inhaled steroid.
+
+- Medical Treatment: Prescribed provided for Flovent 110 mcg 1 puff twice per day. She can continue using her Ventolin inhaler 2 puffs every 4 to 6 hours as needed. I have recommended using her albuterol inhaler 1 to 2 puffs and then monitor her breathing prior to taking an additional 1 to 2 puffs. I am also going to put together an asthma action plan for her so we know what to do based on her symptoms.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.
+
+INSTRUCTIONS
+
+The patient will follow up in 1 month for reevaluation or sooner for worsening symptoms.",test_32,['J45.20']
+240617165657393EHFHEG,"HISTORY OF PRESENT ILLNESS
+
+Larry Garcia is a pleasant 41-year-old male who presents to the clinic today for the evaluation of back pain.
+
+The onset of his pain began 2 years ago, after moving furniture. He denies any specific injury. The patient describes his pain as sharp and stabbing. He locates his pain to his lower back, which radiates distally into his right leg and occasionally into his great toe. Sitting will increase his pain and he notes he is unable to get comfortable. The patient also reports numbness and tingling, especially in his right leg that radiates distally to his foot. He adds that he tries to be as active as he can, however it has been difficult with his back pain. The patient adds that he has gained weight over the past year. He denies any loss of sensation in his genital or rectal area, weakness, or loss of bladder or bowel control.
+
+In the past, he has attended physical therapy. The patient has also been prescribed pain medications, however they only provided temporary relief. He would like to avoid any surgical procedure at this time.
+
+SOCIAL HISTORY
+
+He quit smoking 20 years ago.
+
+FAMILY HISTORY
+
+The patient denies any family history of spine conditions.
+
+REVIEW OF SYSTEMS
+
+Constitutional: Reports weight gain.
+
+Musculoskeletal: Reports lower back pain.
+
+Neurological: Positive for numbness and tingling in the right leg and foot. Denies loss of bowl or bladder control, or loss of sensation in the genital or rectal area.
+
+VITALS
+
+Vitals are within normal limits.
+
+PHYSICAL EXAM
+
+NEURO: Decreased sensation to light touch at the right lateral thigh at the L4 dermatome. Patellar and Achilles reflexes are symmetrical.
+
+MSK: Examination of the lumbar spine: No overlying erythema or ecchymosis. Midline tenderness at L4-5 disc space with right-sided lumbar paravertebral tenderness. Pain with lumbar flexion. Supine straight leg test is positive.
+
+RESULTS
+
+The MRI of the lumbar spine was reviewed today. This revealed a disc herniation with nerve impingement.
+
+ASSESSMENT
+
+L4-5 herniated disc with radiculopathy.
+
+PLAN
+
+After reviewing the patient's examination and MRI findings today, I have discussed with the patient that his symptoms are consistent with an L4-5 herniated disc with radiculopathy. I have recommended that we treat the patient conservatively with a corticosteroid injection under fluoroscopy. With the patient's consent, we will proceed with a cortisone injection into the lumbar spine today.",test_33,['M51.16']
+240617165658138CACHGC,"CHIEF COMPLAINT
+
+Right knee pain.
+
+MEDICAL HISTORY
+
+Patient reports history of hypertension.
+
+SURGICAL HISTORY
+
+Patient reports history of tonsillectomy.
+
+SOCIAL HISTORY
+
+Patient reports that he has a boat on Lake Martin. He is frequent water skier.
+
+MEDICATIONS
+
+Patient reports taking lisinopril 20 mg once a day.
+
+REVIEW OF SYSTEMS
+
+Musculoskeletal: Reports right knee pain and swelling.
+
+Neurological: Denies numbness or tingling in the right foot.
+
+VITALS
+
+Blood pressure: 120/77
+
+PHYSICAL EXAM
+
+Neck
+
+- General Examination: Neck is supple without lymphadenopathy.
+
+Respiratory
+
+- Auscultation of Lungs: Clear bilaterally.
+
+Cardiovascular
+
+- Auscultation of Heart: Regular rate and rhythm. No murmurs.
+
+Musculoskeletal
+
+- Examination of the right knee: Ecchymosis noted. Effusion present. Pain to palpation medially. Decreased range of motion. Negative varus and valgus test. Negative Lachman sign. Palpable dorsalis pedis and posterior tibial pulse. There is otherwise no lower extremity edema.
+
+Hematology/Lymphatic/Immunology
+
+- Palpation: No enlarged lymph nodes.
+
+ASSESSMENT AND PLAN
+
+1. Right knee pain.
+
+- Medical Reasoning: Based on the patient's symptoms and exam, I believe he has a medial collateral ligament strain.
+
+- Patient Education and Counseling: We discussed the nature of this injury as well as the expected recovery outcome. He was advised surgery is typically not needed and that physical therapy will be beneficial for strengthening to prevent future injuries. He was also counseled to rest his knee until we at least receive his x-ray results in order to prevent further injury and to allow for a quicker recovery.
+
+- Medical Treatment: X-ray of the right knee was ordered for further evaluation. Referral to physical therapy was provided for strengthening. A prescription for meloxicam 15 mg once a day for pain and swelling was also provided.
+
+2. Hypertension.
+
+- Medical Reasoning: The patient is doing well on his current medication regimen. He is monitoring his blood pressure at home and has not had any elevated readings.
+
+- Medical Treatment: He will continue taking lisinopril 20 mg a day. Lipid panel was ordered today.
+
+3. Health Maintenance.
+
+- Patient Education and Counseling: I advised the patient that his records indicate that he is due for a tetanus vaccine.
+
+- Medical Treatment: The patient will receive his tetanus vaccine in office today.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.
+
+INSTRUCTIONS
+
+The patient will follow-up for his x-ray results.",test_34,"['M25.561', 'I10']"
+240617165658877HDGFBA,"CHIEF COMPLAINT
+
+Cough.
+
+MEDICAL HISTORY
+
+Patient reports a history of rheumatoid arthritis. He denies any previous history of lung infections or pneumonia.
+
+SOCIAL HISTORY
+
+Patient reports he stopped smoking tobacco 7 years ago and has felt better since doing so. He notes that he enjoys biking.
+
+FAMILY HISTORY
+
+Patient reports his mother has a history of breast cancer, but is doing well. He denies any family history of lung cancer.
+
+MEDICATIONS
+
+Patient reports taking methotrexate 7.5 mg every week.
+
+REVIEW OF SYSTEMS
+
+Respiratory: Denies cough or shortness of breath.
+
+VITALS
+
+Blood Pressure: 124/76 mmHg.
+
+Heart Rate: 70 beats per minute.
+
+Respiratory Rate: 16 breaths per minute.
+
+Oxygen Saturation: 98% on room air.
+
+Body Temperature: Afebrile.
+
+PHYSICAL EXAM
+
+Respiratory
+
+- Auscultation of Lungs: Clear and equal bilaterally.
+
+Cardiovascular
+
+- Auscultation of Heart: Regular rate and rhythm. No clicks, rubs, or murmurs. Pulses are intact in all extremities.
+
+Musculoskeletal
+
+- Examination: No lower extremity edema. Mild swelling to the 3rd digit knuckles on the bilateral hands, consistent with RA.
+
+Integumentary
+
+- Examination: Skin is pink, warm, and dry. Capillary refill is brisk.
+
+RESULTS
+
+CT scan of chest, obtained at an outside facility, is reviewed today and demonstrates a solitary 2 cm nodule in the lateral aspect of the right upper lobe. It appears the nodule is smooth in appearance. No evidence of any type of emphysematous disease is present.
+
+ASSESSMENT AND PLAN
+
+1. Right upper lobe lung nodule.
+
+- Medical Reasoning: The patient has incidentally found right upper lobe lung nodule visible on his chest CT. It could be a benign nodule, but because of his smoking history, I think it is best that he has it surgically removed.
+
+- Patient Education and Counseling: I had a thorough discussion with the patient concerning surgical treatment. Surgery will require general anesthesia and will take approximately 1.5 hours. I explained to the patient that his procedure will consist of 3 small incisions being made on the side of his right chest. I will then insert a camera and scope to assist in removing the nodule along with a very small portion of his lung. He was advised that he will be admitted for most likely an overnight stay. He will have a chest tube in until the following day when I remove it at his bedside. All questions were answered.
+
+- Medical Treatment: Pulmonary function test ordered today to obtain patient's baseline. PET CT will also be scheduled to determine if the nodule is metabolically active, which can suggest if it is cancerous or inflammatory. Nodule will be removed via video assisted thoracoscopy.
+
+2. Rheumatoid arthritis.
+
+- Medical Reasoning: Stable.
+
+- Patient Education and Counseling: I encouraged the patient to continue to follow up with his rheumatologist.
+
+- Medical Treatment: Continue medication therapy and routine follow up with rheumatologist as previously outlined.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.",test_35,"['R91.1', 'M06.9']"
+240617165659628BDBEEF,"SUBJECTIVE
+
+Difficulty swallowing. Tyler Green is a 56-year-old male who presents today complaining of difficulty swallowing.
+
+The patient noticed the difficulty swallowing approximately 4 to 5 weeks ago. He describes it as something stuck in his throat. He states that it bothers him a little bit throughout the day as sometimes it becomes painful. The patient states that occasionally when he tries to eat something relatively solid it seems to get stuck and he will have to wash it down with a drink. He states that he has never fully choked before, but has recently thought about potentially choking. He denies having to cough. Denies having this issue with liquids, hot or cold. Denies hematochezia, vomiting blood, coughing up blood, any weight changes, chest pain, or shortness of breath.
+
+Regarding his diabetes, the patient states he is doing well. He states that he checks his blood sugars most of the time, but sometimes he is in a hurry and will forget. However, he does note that when he checks his blood sugar, they are within range. He is compliant with his metformin 500 mg twice a day. He denies any side effects of the metformin such as nausea, vomiting, or diarrhea. His last hemoglobin A1c was 7.4.
+
+In regards to his blood pressure, the patient states that he is doing okay. He notes that occasionally he will have a lower blood pressure and then other days it will be elevated. However, he states they usually close in range. He is still taking Norvasc.
+
+MEDICAL HISTORY
+
+Patient reports a history of diabetes and hypertension.
+
+MEDICATIONS
+
+Patient reports that he take metformin 500 mg twice a day and Norvasc.
+
+REVIEW OF SYSTEMS
+
+Constitutional: Denies weight changes.
+
+HENT: Reports dysphagia.
+
+Cardiovascular: Denies chest pain.
+
+Respiratory: Denies cough, shortness of breath, or hemoptysis.
+
+Gastrointestinal: Denies hematochezia, hematemesis, vomiting, nausea, or diarrhea.
+
+VITALS
+
+Blood pressure in office today is 120/50.
+
+PHYSICAL EXAM
+
+Neck
+
+- General Examination: Neck is supple without thyromegaly or lymphadenopathy. No swelling. No masses noted. No carotid bruits. No redness noted.
+
+Respiratory
+
+- Assessment of Respiratory Effort: Normal respiratory effort.
+
+- Auscultation of Lungs: Clear bilaterally. No wheezes, rales, or rhonchi.
+
+Cardiovascular
+
+- Auscultation of Heart: Regular rate and rhythm. No murmurs, gallops or rubs.
+
+Gastrointestinal
+
+- Examination of Abdomen: No masses or swelling. Epigastric tenderness noted.
+
+Musculoskeletal
+
+- Normal back examination.
+
+- Normal capillary refill and perfusion.
+
+Hematology/Lymphatic/Immunology
+
+- Palpation: No enlarged lymph nodes.
+
+ASSESSMENT AND PLAN
+
+1. Difficulty swallowing.
+
+- Medical Reasoning: The patient describes difficulty swallowing when he eats solid foods.
+
+- Patient Education and Counseling: We discussed that I am concerned he has a narrowing in his throat that is causing this. I advised the patient the gastroenterology will do a scope. I recommended Prilosec as he might be experiencing reflux. We discussed that he should eat his food slowly and chew his food frequently. I advised the patient to call our office if his symptoms worsen.
+
+- Medical Treatment: I referred the patient to gastroenterology. I prescribed Prilosec 20 mg once a day.
+
+2. Diabetes.
+
+- Medical Reasoning: This seems well-controlled.
+
+- Patient Education and Counseling: The patient will continue with his metformin as he seems to be doing well. I advised the patient to follow up in 1 month for results and any adjustments that may be needed.
+
+- Medical Treatment: Continue metformin 500 mg twice a day. I ordered another hemoglobin A1c, as well as a kidney function test. I referred the patient to ophthalmology for retinopathy.
+
+3. High blood pressure.
+
+- Medical Reasoning: This seems well-controlled.
+
+- Patient Education and Counseling: I advised the patient to continue his current medication, Norvasc.
+
+- Medical Treatment: I refilled the Norvasc.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.
+
+INSTRUCTIONS
+
+The patient will follow-up in 1 month for his diabetic lab results and any modifications needed.",test_36,"['R13.10', 'E11.9', 'I10']"
+240617165700296CCEHHI,"CHIEF COMPLAINT
+
+Right ankle injury.
+
+HISTORY OF PRESENT ILLNESS
+
+Jerry Cook is a 45-year-old male who presents today with a right ankle injury.
+
+The patient sustained an injury to the right ankle while playing basketball with his son. He reports he landed awkwardly and twisted his right ankle after jumping to make a layup. His pain is primarily located along the lateral aspect of the right ankle. He notes bruising and swelling. The patient is able to weight-bear while standing. He experiences pain and feelings of instability within the ankle while ambulating and is concerned for further injury.
+
+SOCIAL HISTORY
+
+The patient works from home and plans to coach his son’s basketball team in 04/2022. He enjoys working out and reports he recently resumed engaging in a consistent gym routine.
+
+REVIEW OF SYSTEMS
+
+Musculoskeletal: Reports right ankle pain and instability.
+
+Skin: Reports right ankle bruising and swelling.
+
+PHYSICAL EXAM
+
+CV: Brisk capillary refill.
+
+SKIN: No epidermolysis. Intact.
+
+MSK: Examination of the right ankle: Exquisite tenderness laterally. Mild tenderness over the medial deltoid region. Swelling on the lateral side of the ankle. No horrible malalignment.
+
+RESULTS
+
+X-rays, including AP, lateral, and oblique views of the right ankle, were obtained in the office and reviewed today. These demonstrate a displaced lateral malleolus at the Weber C level. There is no evidence of medial or posterior malleolar fractures.
+
+ASSESSMENT
+
+Right lateral malleolar fracture.
+
+PLAN
+
+After reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with him regarding treatment options. Recommendation was made for an open reduction internal fixation of the right ankle. We discussed the risks and benefits of the procedure as well as the postoperative recovery period following surgery. I advised that it will be 3 months before he can resume his exercise routine. In the meantime, I will prescribe meloxicam to reduce swelling. I recommended he ice and elevate the ankle as well. He will be given crutches to assist with ambulation.
+
+The patient understands and agrees with the recommended medical treatment plan.",test_37,['S82.61XA']
+240617165701061DEIGDB,"CHIEF COMPLAINT
+
+Right-sided facial pain.
+
+REVIEW OF SYSTEMS
+
+Eyes: Denies vision changes or weakness in right eye.
+
+HENT: Reports right sided facial pain. Denies left sided facial pain. Neurological: Reports headaches. Denies sensory loss, numbness, or tingling in the right cheek. Denies right sided facial weakness.
+
+PHYSICAL EXAM
+
+Neurological
+
+- Orientation: Light touch testing of the right side of the face reveals numbness when compared to the contralateral side. Pinprick testing is sharp on the left side of the face; dull on the right side of the face.
+
+Ears, Nose, Mouth, and Throat
+
+Bilateral finger rub test is negative.
+
+- Examination of Mouth: Teeth are symmetric.
+
+RESULTS
+
+MRI of the head is reviewed today. This demonstrates a small blood vessel that is abutting, and perhaps even pinching, the right trigeminal nerve.
+
+ASSESSMENT AND PLAN
+
+1. Trigeminal neuralgia.
+
+- Medical Reasoning: The patient has been experiencing facial pain for 2 to 3 months. A recent MRI revealed a small blood vessel abutting, or perhaps even pinching, the right trigeminal nerve. The root cause of his facial pain is the compression of the blood vessel against this nerve.
+
+- Patient Education and Counseling: The patient and I discussed treatment options including medicating with gabapentin or Tegretol. I explained the common side effects associated with these medications can include memory loss, tingling, and imbalance. We discussed the need for genetic testing due to the possible side effect of dermatologic reactions in people of East Asian descent. We also briefly discussed surgical treatment to decompress the nerve, but this is not recommended at this time.
+
+- Medical Treatment: A prescription for Tegretol will be sent to the patient’s pharmacy.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.
+
+INSTRUCTIONS
+
+The patient will follow up with me in 1 month. If at that time his facial pain persists, we may further discuss surgical options.",test_38,['G50.0']
+240617165701767IDBFBD,"CHIEF COMPLAINT
+
+Right knee injury
+
+HISTORY OF PRESENT ILLNESS
+
+Michelle King is a pleasant 44-year-old male who presents to the clinic today for the evaluation of a right knee injury. Her injury was sustained while skiing in Vermont last weekend after she caught her ski when coming off of the lift and fell. She reports a pop in her knee at the time of injury and has been experiencing pain since that time. Due to her fall she was unable to weight bear and had to be taken down by the ski patrol. She locates her pain to the lateral aspect of her knee and also describes the feeling of instability as well as buckling. At this time she is experiencing difficulty with knee flexion; however, she states this was not a problem immediately after the injury. Full knee extension is also quite painful for her. The patient denies any numbness or tingling in her toes. She is currently utilizing crutches for ambulation which were provided to her by the ski patrol. In terms of pain control, she is taking ibuprofen which is providing some relief.
+
+MEDICAL HISTORY
+
+Patient reports she is otherwise healthy and denies a history of high blood pressure or diabetes.
+
+SOCIAL HISTORY
+
+Patient reports she is very active with skiing and taking care of her 4-year-old twins. She mentions that she would like to get back into running at some point. She states that her husband is home with her, but he also works a job where he has gone quite a bit.
+
+MEDICATIONS
+
+Patient reports she is taking ibuprofen.
+
+REVIEW OF SYSTEMS
+
+Musculoskeletal: Reports right knee pain and limited range of motion.
+
+Neurological: Denies numbness or tingling in toes.
+
+PHYSICAL EXAM
+
+GAIT: The patient is ambulating with crutches.
+
+CV: Regular rate and rhythm. No murmur.
+
+RESPIRATORY: Lungs are clear to auscultation.
+
+MSK: Examination of the right knee: Edema and effusion noted. Pain with palpation of the lateral knee. Decreased flexion and extension. Positive Lachman's. Palpable dorsalis pedis and posterior tibial pulse. No ankle edema.
+
+RESULTS
+
+4 views of the right knee were taken today. These reveal no bony abnormalities.
+
+ASSESSMENT
+
+Right knee pain, possible ACL tear.
+
+PLAN
+
+After reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with the patient in regards to her current symptoms. I have recommended that we obtain an MRI of the right knee to evaluate for a possible ACL tear. In the meantime, I have advised her to continue taking ibuprofen 600 to 800 mg every 8 hours as needed for pain. She will also be placed into a brace for increased knee support.
+
+INSTRUCTIONS
+
+The patient will follow up with me once the MRI results are available for review and further discussion.",test_39,['M25.561']
+240617165702501BHBCAD,"CHIEF COMPLAINT
+
+Neck pain.
+
+HISTORY OF PRESENT ILLNESS
+
+Brandon Green is a pleasant 46-year-old male who presents to the clinic today for the evaluation of neck pain. His pain began when he was involved in a motor vehicle accident in 02/2022 when he was on his way home from a pain clinic. The patient notes that he has been in 4 motor vehicle accidents; however, he notes that he was fine after the first two accidents, but the third motor vehicle accident is when his neck and back pain began. He states that he was in therapy following the second accident and had surgery after his third accident. The patient was seen at a pain clinic secondary to neck and back pain. He was prescribed fentanyl; however, he has not received a prescription for several weeks. Today, he reports that his pain is a 12 out of 10. He describes his pain as sharp and incapacitating with stiffness and pain. The patient also reports headaches, occasional dizziness. He denies any recent visual disturbances. He also reports numbness in his left arm and right leg. The patient also reports spasms throughout his body. He states that he has been experiencing fatigue since the accident. He notes that he is unable to work with this much pain.
+
+REVIEW OF SYSTEMS
+
+Constitutional: Reports fatigue.
+
+Eyes: Denies any recent visual disturbances.
+
+Musculoskeletal: Reports neck and back pain, and occasional swelling and bruising of the neck.
+
+Neurological: Reports headaches, dizziness, spasms, and numbness.
+
+PHYSICAL EXAM
+
+SKIN: No lacerations.
+
+MSK: Examination of the cervical spine: Pain on palpation on the bony process and muscle. Moderate ROM. No bruising or edema noted.
+
+RESULTS
+
+X-rays of the neck reveal no fractures.
+
+ASSESSMENT
+
+Neck sprain.
+
+PLAN
+
+After reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with the patient in regards to his current symptoms. I have explained to him that his x-rays did not reveal any signs of a fracture. I recommended an MRI for further evaluation. I have also prescribed the patient Robaxin 1500 mg every 6 to 8 hours to treat his pain. I have also advised him to utilize ice, a heating pad, IcyHot, or Biofreeze on his neck as needed. I have also provided him with a home exercise program to work on his range of motion. I advised the patient that he will not be able to work until we have the MRI results.
+
+INSTRUCTIONS
+
+The patient will follow up with me after his MRI for results.",test_40,['S13.9XA']
+240617165703234ECGHIA,"CHIEF COMPLAINT
+
+Follow-up of chronic problem.
+
+HISTORY OF PRESENT ILLNESS
+
+Ms. Carolyn Garcia is a 49-year-old female who presents to the clinic today for follow-up of her chronic problem.
+
+The patient reports her osteoarthritis has been flaring up a little lately, and she would like to talk about that, primarily in her elbows. She states she has been sitting at the computer more in the office, so she is unsure if it is stagnant in that position all day. She notes her right elbow bothers her more than her left elbow, but she is primarily typing all day versus writing. She denies any other joint pain. She notes occasional numbness and tingling in her hands, which she tries to shake out her arms to relieve the numbness.
+
+She also has a history of gout. Her last episode was about 3 months ago. She had some inflammation of her toe at that time. She denies any other issues with that. She states the medication she was given at that time helped with her gout and she has not seen a flare up since. She reports her psoriasis is under control and has not been a major problem for her either. She is still on colchicine 0.6 mg twice a day as needed for flare-ups of her gout.
+
+REVIEW OF SYSTEMS
+
+• Musculoskeletal: Endorses joint pain.
+
+• Neurological: Endorses numbness and tingling.
+
+PHYSICAL EXAMINATION
+
+• Neck: Supple without lymphadenopathy.
+
+• Respiratory: Lungs are clear to auscultation bilaterally. No wheezes, rales, or rhonchi.
+
+• Cardiovascular: Regular rate and rhythm.
+
+• Gastrointestinal: Abdomen is soft.
+
+• Musculoskeletal: No edema to the lower extremity. Examination of  the right elbow, there is some edema and inflammation of the right olecranon. Some tenderness to palpation of the olecranon bursa. Pain with pronation and supination. Pain with flexion and extension of the right arm.
+
+ASSESSMENT AND PLAN
+
+A 49-year-old female here today for followup of chronic problem.
+
+1. Gout
+
+• Medical Treatment: Continue colchicine 0.6 mg twice a day as needed for flare ups.
+
+2. Osteoarthritis
+
+• Medical Treatment: We will order a right elbow x-ray. We will prescribe meloxicam 15 mg once a day for pain and swelling.
+
+3. Psoriasis
+
+• Medical Treatment: Continue steroid cream.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.",test_41,"['M1A.90', 'M19.90', 'L40.9']"
+240617165703958DGCGIG,"CHIEF COMPLAINT
+
+Annual exam.
+
+HISTORY OF PRESENT ILLNESS
+
+Beverly Ortiz is a 24-year-old female patient with a history of type 2 diabetes and high blood pressure. She is here today for her yearly exam.
+
+The patient states she has been doing well. She has recently began working at a bakery this summer.
+
+The patient states her diabetes is uncontrolled. Her blood sugars have fluctuated recently, which she attributes to her change in diet due to work. She is trying to improve her diet by removing additional sweets. She has been taking her medication as prescribed and has not missed any doses.
+
+The patient states her blood pressure has been good despite her blood sugar levels being up and down. She has continued taking metformin twice a day.
+
+She has been sleeping well and is able to sleep a full 8 hours. She denies thoughts of self-harm or suicidal ideations.
+
+PHYSICAL EXAMINATION
+
+• Neurological/Psychological: Grip strength equal bilaterally. Neurologically intact.
+
+• Neck: Supple without thyromegaly or lymphadenopathy. No carotid bruits appreciable.
+
+Lungs are clear to auscultation bilaterally. No wheezes, rales, or rhonchi.
+
+• Cardiovascular: Regular rate. Grade 2/6 systolic ejection fraction murmur. No gallops or rubs. No extra heart sounds. Good pulses.
+
+RESULTS
+
+Hemoglobin A1c is elevated.
+
+ASSESSMENT AND PLAN
+
+Beverly Ortiz is a 24-year-old female patient with a history of type 2 diabetes and high blood pressure. She is here today for her yearly exam.
+
+Diabetes mellitus type 2.
+
+• Medical Reasoning: Her blood glucose levels have been uncontrolled. She is still taking metformin twice a day, but does admit to dietary indiscretion with an increase in her sweets intake.. Her most recent hemoglobin A1c was elevated.
+
+• Medical Treatment: Continue metformin twice a day.
+
+• Patient Education and Counseling: I encouraged her to check her fasting blood glucose levels each morning and call them in about 2 weeks. She will follow up in about 2 months, at which time we will discuss further treatment recommendations.
+
+Hypertension.
+
+• Medical Reasoning: Appears to be relatively stable.
+
+• Medical Treatment: Continue lisinopril 10 mg once daily.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.",test_42,"['E11.9', 'I10']"
+240617165704685GAABDC,"CHIEF COMPLAINT
+
+Joint pain.
+
+HISTORY OF PRESENT ILLNESS
+
+The patient is a 26-year-old female with a past medical history significant for epilepsy, depression, and peptic ulcer disease who presents with some joint pain.
+
+The patient reports that her left elbow has really been bothering her. She states that she sits at her desk all day for work with her elbows bent. She reports that after work it is really hard for her to flex and extend her left elbow. She reports that it has been really stiff and painful. She also notes that she has noticed swelling on the olecranon of her elbow. She reports that she is right-handed, therefore, she can still write, which is great, but typing is difficult. She denies any numbness or tingling in her hands. She reports that she has some weakness in her arm but nothing too significant. She denies any fever or chills.
+
+Regarding her epilepsy, she reports that she has not had any recent seizures. She reports that her last seizure was a year ago. She reports that she is still taking Keppra.
+
+Regarding her depression, she reports that she started therapy last year and she is trying to avoid medications for this problem. She reports that therapy has been helpful, but she still feels down and stressed. She denies suicidal and homicidal ideations.
+
+Regarding her peptic ulcer, she reports that she was dealing with a lot of stress last year. She then underwent an endoscopy which showed that she had an episode of gastritis. She was subsequently diagnosed with peptic ulcer disease and started Protonix. She reports that she has not had any issues with her ulcer since the procedure and everything has been good.
+
+The patient denies chest pain, shortness of breath, abdominal pain, nausea, or vomiting. She reports that she does have a little bit of medial nasal congestion from allergies.
+
+REVIEW OF SYSTEMS
+
+• Ears, Nose, Mouth and Throat: Endorses medial nasal congestion from allergies.
+
+• Cardiovascular: Denies chest pain or dyspnea on exertion.
+
+• Respiratory: Denies shortness of breath.
+
+• Musculoskeletal: Endorses left elbow joint pain, swelling, and weakness.
+
+• Psychiatric: Endorses depression.
+
+PHYSICAL EXAMINATION
+
+• Musculoskeletal: Examination of the left elbow reveals erythema and edema. Pain to palpation of the left olecranon. Warm to palpation. Pain with flexion and extension. Palpable left radial pulse.
+
+RESULTS
+
+Left arm x-ray does not reveal any evidence of elbow fracture.
+
+EGD revealed an episode of gastritis.
+
+ASSESSMENT
+
+Anna Morris is a 26-year-old female with a past medical history significant for epilepsy, depression, and peptic ulcer disease who presents with some joint pain.
+
+PLAN
+
+Left elbow pain.
+
+• Medical Reasoning: I believe she has left olecranon bursitis caused by repetitive trauma.
+
+• Medical Treatment: Initiate meloxicam 15 mg once daily.
+
+• Patient Education and Counseling: I encouraged the patient to use a pillow to rest her arm on. She may also ice the area.
+
+Epilepsy.
+
+• Medical Reasoning: She has been doing well on Keppra and denies any recent seizures.
+
+• Medical Treatment: Continue Keppra 500 mg twice a day. This was refilled today.
+
+Depression.
+
+• Medical Reasoning: She reports doing well with therapy.
+
+• Medical Treatment: Initiate Lexapro 10 mg once daily.
+
+Peptic ulcer disease.
+
+• Medical Reasoning: Her recent endoscopy revealed gastritis
+
+• Medical Treatment: Continue Protonix 40 mg once daily before meals.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.",test_43,"['M25.522', 'G40.909', 'F32.A', 'K27.9']"
+240617165705399BGEDIF,"CHIEF COMPLAINT
+
+High blood pressure check.
+
+HISTORY OF PRESENT ILLNESS
+
+Ms. Susan Watson is a 26-year-old female who presents to the clinic today for a high blood pressure check.
+
+The patient reports she has always struggled with high blood pressure, but it is seems out of control recently. She notes that she has interest in new medication or diet changes to help. She is currently on Norvasc 10 mg daily. Her blood pressure at home has been over 150. She notes she has had some headaches, but she is unsure if it is due to stress at work or her high blood pressure. She denies chest pain or shortness of breath.
+
+The patient underwent a kidney transplant a few years ago, and everything is going well. She is taking all of her immunosuppression medication.
+
+REVIEW OF SYSTEMS
+
+• Cardiovascular: Denies chest pain or dyspnea on exertion.
+
+• Respiratory: Denies shortness of breath
+
+• Neurological: Endorses headaches.
+
+PHYSICAL EXAMINATION
+
+• Constitutional: in no apparent distress.
+
+• Neck: Supple without thyromegaly or lymphadenopathy.
+
+• Respiratory: Lungs are clear to auscultation bilaterally. No wheezes, rales, or rhonchi.
+
+• Cardiovascular: 2/6 systolic ejection murmur.
+
+• Musculoskeletal: No edema.
+
+• Integumentary: Scar on left flank from kidney transplant, healed.
+
+RESULTS
+
+Creatinine: normal.
+
+Electrocardiogram: normal.
+
+ASSESSMENT AND PLAN
+
+Ms. Susan Watson is a 26-year-old female who is here today for a high blood pressure check.
+
+Hypertension.
+
+• Medical Reasoning: Her blood pressure is elevated today and based on her recent home monitoring.
+
+• Additional Testing: I would like to get a lipid panel and metabolic panel.
+
+• Medical Treatment: carvedilol 25 mg twice a day to help bring her blood pressure down.
+
+Status post kidney transplant.
+
+• Medical Reasoning: Doing well.
+
+Kidney function stable.
+
+• Medical Treatment: Continue current medications.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.",test_44,"['I10', 'Z94.0']"
+240617165706240HECBGI,"CC:
+
+Back pain.
+
+HPI:
+
+Ms. Lee is a 40-year-old female who presents today for an evaluation of back pain. She states she was at a birthday party and she ran her back into the railing of the staircase and twisted her back. She denies any pain radiating down her legs. Lying flat and twisting motions aggravate the pain. She is currently taking ibuprofen.
+
+CURRENT MEDICATIONS:
+
+Ibuprofen.
+
+PAST MEDICAL HISTORY:
+
+Anxiety.
+
+PAST SURGICAL HISTORY:
+
+Lumbar fusion
+
+EXAM
+
+Examination of the back shows range of motion without pain. Straight leg raise is negative. Sensation is intact.
+
+RESULTS
+
+X-rays of the lumbar spine show no obvious signs of acute fracture. Evidence of a prior lumbar fusion with hardware in good position.
+
+IMPRESSION
+
+Lumbar spine strain.
+
+PLAN
+
+At this point, I discussed the diagnosis and treatment options with the patient. I have recommended ice and heat. She will continue with Motrin 800 mg 3 times a day with food. She will follow up with me as needed.",test_45,['S33.5A']
+240617165707016HEEAAG,"CHIEF COMPLAINT
+
+Joint pain
+
+HISTORY OF PRESENT ILLNESS
+
+Ms. Thompson is a 27 y.o. female with a history of carpal tunnel release done a couple years ago, chronic back pain, and depression. She presents today for joint pain.
+
+Ms. Thompson reports that over the course of the month she has begun swimming more regularly and trying to be more active. She has experienced bad right knee pain. The patient reports that her knee starts hurting after a couple of laps. She notes previously she could swim 10 laps. She denies injury or trauma to the knee.
+
+The patient has a history of chronic back pain that has been intermittent, but right now it has been doing well. She denies pain radiating down her legs.
+
+The patient has a history of depression, which has been going really well with medication and therapy. She is trying to get outside more and it has been helping her with her depression. She notes she is sleeping and eating well. She denies concerns about hurting herself or others.
+
+The patient's carpal tunnel is doing really well. She has been getting full range of motion and it has felt a lot better.
+
+REVIEW OF SYSTEMS
+
+• Musculoskeletal: Endorses right knee joint pain. Endorses chronic back pain.
+
+• Psychiatric: Endorses depression.
+
+PHYSICAL EXAMINATION
+
+• Neurological/Psychological: Appropriate mood and affect. Grips are equal bilaterally.
+
+• Neck: Supple without thyromegaly or cervical lymphadenopathy.
+
+• Respiratory: Lungs are clear to auscultation bilaterally. No wheezes, rales, or rhonchi.
+
+• Cardiovascular: Regular rate and rhythm. No murmurs, gallops, or rubs. No extra heart sounds.
+
+• Musculoskeletal: No lower extremity edema. Pain with patellar inhibition. Pain with range of motion of the right knee.
+
+RESULTS
+
+X-ray of the right knee is unremarkable.
+
+ASSESSMENT AND PLAN
+
+Ms. Thompson is a 27 y.o. female who presents today for evaluation of right knee pain.
+
+Chondromalacia of right patella.
+
+• Medical Reasoning: She has been more active lately but is unaware of any injury to the knee. Her recent x-rays were normal but she did have some discomfort on exam.
+
+• Medical Treatment: Prescribed ibuprofen 600 mg 4 times a day with food. I do want her to do some straight leg raising exercises that will strengthen her quadriceps.
+
+• Patient Education and Counseling: I encouraged her to participate in physical activity that is less straining on her joints , such as swimming freestyle laps, or to stop activity all together. If her pain does not improve in a couple of weeks, she will follow up.
+
+Chronic back pain.
+
+• Medical Reasoning: This is stable and well-controlled at this time.
+
+• Medical Treatment: She should continue swimming regularly once her knee is feeling better.
+
+Depression.
+
+• Medical Reasoning: She is doing well with her current regimen.
+
+• Medical Treatment: Continue current medications.
+
+Carpal tunnel syndrome.
+
+• Medical Reasoning: Relatively stable status post carpal tunnel release.
+
+• Medical Treatment: Continue current regimen with no changes at this time.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.",test_46,"['M94.262', 'M54.9', 'F32.A', 'Z47.89']"
+240617165707707HCHFDC,"CHIEF COMPLAINT
+
+Abnormal labs.
+
+HISTORY OF PRESENT ILLNESS
+
+The patient is a 31-year-old female with a past medical history significant for type 2 diabetes, and hypertension who presents with abnormal labs. She had an insect bite at her last visit after hiking in the woods. We drew a Lyme titer which came back positive.
+
+The patient reports she has been feeling tired and lacking a lot of energy. She also notes swollen elbow joints, body aches, bullseye rash, and nausea. She states she has not been able to eat much. What she does eat has been bland foods such as crackers. She denies any high fevers.
+
+Regarding her type 2 diabetes, she states her blood sugars have been okay. She notes they are sometimes a little high or low, but nothing too far out of range. She is still taking metformin.
+
+Regarding her hypertension, she is monitoring her blood pressure at home and it has been good. She is avoiding salty foods and is still taking lisinopril.
+
+The patient denies abdominal pain and diarrhea.
+
+REVIEW OF SYSTEMS
+
+• Constitutional: Denies fevers. Endorses fatigue.
+
+• Gastrointestinal: Denies abdominal pain and diarrhea. Endorses nausea.
+
+• Musculoskeletal: Endorses bilateral elbow joint swelling, pain. Endorses body aches.
+
+• Integumentary: Endorses a rash.
+
+PHYSICAL EXAMINATION
+
+• Gastrointestinal: Examination of her abdomen reveals warmth to palpation. Nontender to palpation. No evidence of cellulitis.
+
+• Musculoskeletal: Swelling and pain to palpation of elbow joints bilaterally.
+
+• Integumentary: Small bullseye rash on the left abdominal quadrant.
+
+RESULTS
+
+Lyme titer: elevated.
+
+Labs: WBC is within normal limits. All other labs are normal as well.
+
+ASSESSMENT AND PLAN
+
+The patient is a 31-year-old female with a past medical history significant for type 2 diabetes, and hypertension who presents with abnormal labs.
+
+Newly diagnosed Lyme disease.
+
+• Medical Reasoning: This is a new issue for her. She presented with an insect bite at her last visit, and her subsequent lyme titer was elevated.
+
+• Medical Treatment: I am going to prescribe doxycycline 100 mg twice a day for 3 weeks. I am going to touch base with an infectious disease doctor to ensure nothing else that needs to be done. I want to see her again next week for follow-up for this.
+
+Hypertension.
+
+• Medical Reasoning: This has been well-controlled based on home monitoring. She has been compliant with dietary modifications including limiting her sodium intake.
+
+• Additional Testing: I am going to order a lipid panel.
+
+• Medical Treatment: She will continue lisinopril 10 mg a day. This was refilled today.
+
+• Patient Education and Counseling: I advised the patient to continue to regularly monitor her blood pressures at home.
+
+Diabetes type 2.
+
+• Medical Reasoning: She has noticed intermittent elevations of her blood glucose levels but has been compliant with the use of metformin. Her diet has been limited due to nausea in the setting of Lyme disease.
+
+• Additional Testing: I am going to order a hemoglobin A1c to ensure no medication changes are needed.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.",test_47,"['A69.20', 'I10', 'E11.9']"
+240617165708443FGCFIH,"CHIEF COMPLAINT
+
+Evaluation of high blood sugar.
+
+HISTORY OF PRESENT ILLNESS
+
+Ms. Hannah Phillips is a 52-year-old female who presents for evaluation of high blood sugar. The patient admits to dietary indiscretion. She notes that she has been eating more sweets during the holidays. She reports that this past week, she felt really lightheaded, was seeing spots in her vision, and was really dizzy. She went to the emergency room and was told that she had high blood sugar. Ms. Phillips was given IV fluids. The patient was also instructed to get into a routine and watch her diet. She states that she is staying with family during the holidays and having trouble returning to her routine diet, but wants to make sure that her high blood sugar is not an issue.
+
+The patient denies any fever or chills. She denies chest pain or shortness of breath. She denies abdominal pain or burning when she urinates. She denies joint pain or muscle aches.
+
+She notes that she has osteoarthritis, and that nothing seems out of the ordinary for her joint pain.
+
+The patient has a history of atrial fibrillation. She states that she has felt her heart racing when she is anxious; however, other than that, she has not experienced any issues. She is currently taking metoprolol 25 mg 2 times per day.
+
+Regarding her acid reflux, she states that she has been doing well. She has been taking the medication that was prescribed to her, and it has been very helpful. She is on the Protonix 40 mg once daily, and she is doing well with that
+
+REVIEW OF SYSTEMS
+
+• Constitutional: Negative for fever, chills
+
+• Cardiovascular: Negative for chest pain
+
+• Respiratory: Negative for shortness of breath.
+
+• Gastrointestinal: Negative for abdominal pain.
+
+• Genitourinary: No dysuria.
+
+• Musculoskeletal: No Arthralgias, Myalgias.
+
+PHYSICAL EXAMINATION
+
+Constitutional
+
+• General Appearance: appear in no distress.
+
+Neck
+
+• General Examination: Her thyroid is a little enlarged but nontender. There are no carotid bruits. Respiratory
+
+• Auscultation of Lungs: Clear bilaterally. Cardiovascular
+
+• Auscultation of Heart: Irregular rate and rhythm. Musculoskeletal
+
+• Examination of Abdomen: Nice soft and have no edema in lower extremities.
+
+RESULTS
+
+Glucose: elevated.
+
+HbA1c: elevated.
+
+ASSESSMENT AND PLAN
+
+Ms. Hannah Phillips is a 52-year-old female who presents for evaluation of high blood sugar.
+
+Diabetes.
+
+• Medical Reasoning: Elevated blood glucose and hemoglobin A1c levels based on recent labs.
+
+• Additional Testing: We will order a complete metabolic panel for further evaluation.
+
+• Medical Treatment: Initiate metformin 500 mg twice daily. Encouraged dietary modifications. The patient will be given a glucometer to monitor her glucose levels at home.
+
+Atrial Fibrillation.
+
+• Medical Reasoning: Asymptomatic and well-controlled at this time.
+
+• Medical Treatment: Continue metoprolol 25 mg twice daily. Refilled today.
+
+History of Reflux.
+
+• Medical Reasoning: Well-controlled on current regimen.
+
+• Medical Treatment: Continue Protonix 40 mg daily.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.",test_48,"['E11.9', 'I48.91', 'K21.9']"
+240617165709173BHIGEF,"CHIEF COMPLAINT
+
+Joint pain.
+
+HISTORY OF PRESENT ILLNESS
+
+Ms. Janet Sullivan is a 33-year-old female who presents to the clinic today for evaluation of joint pain.
+
+She localizes the joint pain to her bilateral knees. The patient reports she has been doing stair workouts, which she thought was building muscle on her knees. She denies any pins and needles in her feet or swelling in her legs. The patient notes that she would look out for those symptoms because she has diabetes. She denies any fever or chills. She denies any nausea or vomiting. The patient denies any chest pain or shortness of breath.
+
+She notes she had a right shoulder rotator cuff repair about 2 years ago, but she has not had any problems since that point.
+
+She reports that her diabetes are well-controlled.
+
+The patient does have high blood pressure but she monitors it and takes Norvasc 5 mg a day. She notes her blood pressure has not been elevated since her joint pain started.
+
+REVIEW OF SYSTEMS
+
+• Constitutional: Negative for fever, chills
+
+• Cardiovascular: Negative for chest pain or lower leg swelling.
+
+• Respiratory: Negative for shortness of breath.
+
+• Gastrointestinal: Negative for nausea, vomiting.
+
+• Musculoskeletal: Positive for Arthralgias
+
+PHYSICAL EXAMINATION
+
+Neck
+
+• General Examination: Neck is supple without thyromegaly.
+
+Respiratory
+
+• Auscultation of Lungs: Clear bilaterally. No wheezes, rales, or rhonchi.
+
+Cardiovascular
+
+• Auscultation of Heart: Regular rate and rhythm.
+
+Musculoskeletal
+
+• Left knee: Slight erythema and edema. Small effusion present. Decreased flexion and extension. Strength in lower extremities is good.
+
+RESULTS
+
+Views: Four views left knee.
+
+Indication: Knee pain.
+
+Interpretation: There are no fractures, dislocations, or other abnormalities.
+
+PLAN
+
+Ms. Janet Sullivan is a 33-year-old female who presents to the clinic today for evaluation of joint pain.
+
+Left knee strain.
+
+• Medical Treatment: We will order an autoimmune panel for further workup. I am going to refer her to physical therapy and prescribe meloxicam 15 mg once daily to help with pain.
+
+• Specialist Referrals: Physical therapy.
+
+Hypertension.
+
+• Medical Reasoning: Her blood pressure is elevated in office today, but has been well-controlled on Norvasc 5 mg daily based on home monitoring.
+
+• Medical Treatment: Continue current regimen and home monitoring. She will send me a report in the next couple of weeks. We will also order a lipid profile.
+
+Diabetes type II.
+
+• Medical Reasoning: Her hemoglobin a1C is slightly elevated, but her blood glucose levels have been well-controlled.
+
+• Medical Treatment: Continue metformin 500 mg twice a day.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.",test_49,"['S83.92XA', 'I10', 'E11.9']"
+240617165709879EAGGCF,"CHIEF COMPLAINT
+
+Annual exam.
+
+HISTORY OF PRESENT ILLNESS
+
+Christine Flores is a 63-year-old female presenting for her yearly exam. She has a history of high blood pressure and depression in the past. She also had a right carpal tunnel release done about 2 years ago.
+
+The patient states that she has been doing well with her depression. She notes that she has been taking her medication as prescribed at her last visit. She states that she has been going to therapy every week, which has helped her manage her symptoms. The patient notes that she is sleeping well at night and has been getting a full 8 hours. She denies any thoughts of self-harm or harming others.
+
+The patient states that she has been checking her blood pressure at home. She notes that her blood pressure has fluctuated lately. She states that she has not had a normal reading in a couple of weeks. The patient has continued utilizing her medications.
+
+She states that her diet has been a little all over the place. The patient notes that she has been working more hours. She reports that she has had some headaches, however, she thought that it was related to her increased screen time.
+
+The patient states that her right carpal tunnel release has been doing well. She denies numbness or tingling in her hands or fingers.
+
+REVIEW OF SYSTEMS
+
+• Cardiovascular: Endorses blood pressure issues.
+
+• Neurological: Endorses headaches.
+
+• Psychiatric: Endorses depression.
+
+PHYSICAL EXAMINATION
+
+• Neurological/Psychological: Appropriate mood and affect. Bilateral grip strength equal. Neurologically intact.
+
+• Neck: Supple without thyromegaly or cervical lymphadenopathy.
+
+• Respiratory: Lungs are clear to auscultation bilaterally. No wheezes, rales, or rhonchi.
+
+• Cardiovascular: Regular rate and rhythm. No murmurs, gallops, or rubs. No extra heart sounds.
+
+VITALS REVIEWED
+
+• Blood Pressure: Elevated.
+
+RESULTS
+
+Laboratory studies are all within normal limits.
+
+ASSESSMENT AND PLAN
+
+Christine Flores is a 63-year-old female presenting for her yearly exam.
+
+Depression.
+
+• Medical Reasoning: She is doing well and managing this with medication and weekly therapy.
+
+• Medical Treatment: Continue current regimen.
+
+Hypertension.
+
+• Medical Reasoning: Her blood pressures have been fluctuating lately. She does admit to dietary indiscretion due to her increased workload.
+
+• Medical Treatment: Increase lisinopril to 10 mg once daily.
+
+• Patient Education and Counseling: She should continue to monitor this at home and follow up in 1 month.
+
+Carpal tunnel release.
+
+• Medical Reasoning: She is doing well 2 years postoperatively and is asymptomatic at this time.
+
+• Patient Education and Counseling: She will contact us if her symptoms return.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.",test_50,"['F32.A', 'I10', 'Z47.89']"
+240617165710545FAEIEB,"CHIEF COMPLAINT
+
+Follow-up for asthma, allergic rhinitis, and food allergy.
+
+HISTORY OF PRESENT ILLNESS
+
+Emily Hernandez is a 20-year-old female presenting today for an annual follow-up for asthma, allergic rhinitis, and food allergy. Due to insurance changes during the interim of our last office appointment from 04/2020, she was switched from Symbicort to Wixela. She uses Zyrtec in the spring, summer, and fall for her seasonal allergy symptoms, which tends to work well. She has known peanut and tree nut allergies, which she tries to avoid. She does tolerate almonds and cashew.
+
+Mrs. Hernandez is trying to join the military, who require a certain fitness level without use of a rescue or maintenance inhaler, so she has been weaning off her inhalers. She uses albuterol prior to a run, but otherwise functions without it. She has been reducing her Wixela dose, using 1 inhalation once daily 3 times per week, with remaining days using it twice per day as prescribed. She feels this is working well. She denies urgent care or emergency room visits for respiratory issues in the past year. She denies requiring prednisone for breathing issues in the past year.
+
+She hopes to be enlisted in the military in early spring of 2022. She is currently undergoing exertional testing to this purpose. She explains that this gives hers 6 to 7 months to show that she can exert herself without needing any inhalers.
+
+Over the past year, she admits to vaping and smoking, though she is trying to quit and has cut down her use significantly.
+
+She notes having a nebulizer but denies needing it recently and has only used it in her past for upper respiratory infections and as a child a few times.
+
+Mrs. Hernandez uses Zyrtec during the spring and fall but does not typically have to use it consistently during the summer. She confirms she has been taking Zyrtec 3 days per week when she works outside, and it works well to control her symptoms.
+
+She has been successfully avoiding peanuts. Incident from last year was reviewed where she was exposed to peanuts when she was cleaning an Enterprise rental car that had a lot of peanuts in it. She developed contact hives when the peanuts encountered her skin. Over the past year she denies additional accidental exposures. She wears long sleeves and changes her gloves between each cleaning. She thinks it is likely that she has been in contact with cars that contained peanuts, but due to her protective measures she did not touch them directly. She confirmed she always keeps an EpiPen with her.
+
+The patient is also avoiding tree nuts. She did ingest almonds without issue following our discussion that she could try them. Despite tolerating them well, she continues to avoid all tree nuts.
+
+PAST HISTORY
+
+Medical
+
+Asthma.
+
+Allergy rhinitis.
+
+Food allergies to peanut and tree nuts.
+
+SOCIAL HISTORY
+
+Currently smokes tobacco and vapes, trying to reduce and interested in cessation in preparation for joining the army.
+
+CURRENT MEDICATIONS
+
+Wixela Inhub 250 mcg-50 mcg/dose powder for inhalation. 1 puff 2 times daily in the morning and evening.
+
+Proair HFA as needed.
+
+EpiPen as needed.
+
+Alvesco 80 mcg 2 puff 2 times daily.
+
+ALLERGIES
+
+Peanuts cause a severe, anaphylactic reaction.
+
+Montelukast sodium, “seizure-like” reaction.
+
+RESULTS
+
+Asthma Control Test (ACT) Results: ACT score is 21.
+
+Current food skin test sensitivities include peanuts.
+
+ASSESSMENT
+
+• Moderate persistent asthma, uncomplicated.
+
+• Allergic rhinitis.
+
+• Anaphylactic reaction due to peanuts.
+
+Emily Hernandez is a 20-year-old female who presented today for her yearly follow-up appointment for asthma, allergic rhinitis, and food allergy.
+
+PLAN
+
+Moderate persistent asthma, uncomplicated
+
+The patient has been using Wixela inhaler daily and admits to reducing her daily dose to one puff per day, 3-4 days per week as she feels she does not always need it the full dose. Additionally, she aspires to join the military and she must meet certain physical fitness requirements without the use of her inhaler. I counseled the patient on current asthma treatment guidelines which recommend using Wixela and Alvesco only when needed during periods of illness. The patient agreed to reducing her medicine to Alvesco which is a single medication, versus 2 in Welixa. The patient will continue to use her albuterol inhaler as needed. Her ACT score is 21 today and her spirometry test today was better than it was in 2019, though she recalls that it was smoky from wildfires during her last breathing test.
+
+Allergic rhinitis
+
+She will continue to use Zyrtec as needed, primarily during spring and fall and sometimes in summer. Her current dose cadence is 3 times per week when she works outside. Symptoms are currently under control.
+
+Anaphylactic reaction due to peanuts
+
+The patient has successfully avoided peanuts. Plan is to continue with current methods to avoid exposure. I will refill her EpiPen which expires annually.
+
+INSTRUCTIONS
+
+Moderate persistent asthma, uncomplicated
+
+Start Alvesco, 2 puffs twice daily. Keep Wixela in case Alvesco does not work well. Continue albuterol as needed. Return in 4 months to repeat ACT and spirometry testing.
+
+Allergic rhinitis
+
+Continue Zyrtec 10 mg daily as needed.
+
+Anaphylactic reaction due to peanuts
+
+Continue strict avoidance of peanuts. I will refill her EpiPen today.",test_51,"['J45.40', 'J30.9', 'Z91.010']"
+240617165711280BGCHII,"CHIEF COMPLAINT
+
+High blood pressure and palpitations.
+
+HISTORY OF PRESENT ILLNESS
+
+Jordan Roberts is a 49-year-old with a long history of hypertension and an acute episode of palpitations.
+
+In March, Mr. Roberts went to the emergency room for palpitations and hypertension. He attributed this to a panic attack, but also stated he consumed several cups of coffee on an empty stomach the morning of. He denies additional episodes of palpitations.
+
+He has been monitoring his blood pressure at home daily, obtaining systolic blood pressure readings of 146 to 155. He does report a family history of hypertension. Additionally, he has been monitoring his salt intake and feels he is doing well at reducing it. He also walks on his treadmill as often as he can.
+
+He has a new primary care physician who started him on a new medication Benicar HCT, which he has been using for the past month.
+
+PAST HISTORY
+
+Medical
+
+Hypertension.
+
+FAMILY HISTORY
+
+Several family members positive for hypertension.
+
+CURRENT MEDICATIONS
+
+Benicar HCT 40 mg/25 mg
+
+Amlodipine 10 mg daily.
+
+Physical Examination
+
+Cardiovascular
+
+Normal rate, regular rhythm, S2 normal, normal heart sounds, and normal pulses.
+
+Pulmonary/Chest
+
+Breath sounds normal. 
+
+Abdominal
+
+There is no tenderness.
+
+Musculoskeletal
+
+There is no edema.
+
+RESULTS
+
+Thyroid profile 03/01/2021.
+
+ASSESSMENT
+
+• Resistant hypertension.
+
+Mr. Roberts presents with resistant hypertension, with systolic blood pressure readings between 146-155. He is currently on maximal doses for 3 medications.
+
+PLAN
+
+I have added spironolactone to his regimen which will require monitoring of his potassium and sodium. We will schedule him for a follow up in 2 weeks to complete a basic metabolic panel and check his blood pressure. Next medication to consider adding is carvedilol. I have tried to avoid this, given the potential for issues with erectile dysfunction. I counseled the patient about spironolactone side effects, including gynecomastia and electrolyte disturbances, as well as his increased risk of dehydration, with one sign to watch for being dizziness. If we are not able to improve his blood pressure with spironolactone, the next step would be sending him to the resistant hypertension clinic.
+
+I provided and reviewed with Mr. Roberts the American Heart association website (heart.org) and encouraged him to access for tips on lowering his salt intake and increasing his potassium intake. His maximum salt intake should be 1500 to <2000 mg per day. He was provided materials to follow the DASH diet and encouraged to meet 30-min of walking most days.
+
+INSTRUCTIONS
+
+Schedule follow up appointment in 2 weeks for blood pressure check and basic metabolic panel. Reduce sodium intake to 1500 to <2000 mg per day. Follow DASH diet.",test_52,['I10']
+240617165712118EABGBD,"CHIEF COMPLAINT
+
+Follow up irritable bowel syndrome (IBS).
+
+HISTORY OF PRESENT ILLNESS
+
+Ms. Brittany Edwards is a pleasant 32-year-old female who returns in follow up for irritable bowel syndrome (IBS) with functional abdominal pain, nausea, and vomiting.
+
+Ms. Edwards was last seen in August 2019 with flares of abdominal pain and was diagnosed with irritable bowel syndrome that was treated with Bentyl. She had a previous prescription for Reglan that she received from the emergency room that she used as needed for nausea. She was instructed to start a low dose fiber supplement such as Citrucel daily, probiotics to help with gas and bloating, and Bentyl up to 4 times daily for intestinal cramping. She was instructed to discontinue Reglan and to use Zofran as needed for nausea. Neuromodulators such as Elavil and Buspar were discussed but not started.
+
+Ms. Edwards continues to have intermittent abdominal symptoms. Monday through Thursday she has less flare ups of her symptoms but states she is currently having cramps and sharp pains. She describes she recently ate shrimp which caused her to have both upper and lower abdominal pain and bloating. However, she notices episodes of diarrhea after eating chicken alfredo and consuming alcohol. She does not believe the alfredo contributes to her symptoms. The patient states she consumes 2 drinks when out of either tequila or brown liquor and occasionally a martini. She does her best to avoid “heavy foods,” but ate fried chicken today without any symptoms. She has stopped drinking sodas which has been helpful. The patient reports passing 2-3 formed stools a day.
+
+REVIEW OF SYMPTOMS
+
+• Gastrointestinal: Positive nausea, diarrhea, and abdominal pain.
+
+PHYSICAL EXAM
+
+Alert and cooperative, appears stated age.
+
+Respiratory
+
+Lungs clear to auscultation bilaterally.
+
+Cardiovascular
+
+Heart regular rate and rhythm.
+
+Gastrointestinal
+
+Abdomen soft, non-tender, no masses or organomegaly. Normoactive bowel sounds.
+
+ASSESSMENT
+
+• Irritable bowel syndrome
+
+Brittany Edwards is a 32-year-old established patient who returned today to discuss management of IBS and functional abdominal pain made worse by high stress, poor eating habits, and poor sleeping habits.
+
+PLAN
+
+I have encouraged dietary and lifestyle modifications as well as starting a neuromodulator, such as Elavil 25 mg at bedtime for IBS. She can use Bentyl 20 mg as needed 30-45 minutes before eating out at a restaurant. She can also use Zofran as needed for nausea. However, I have encouraged her to reduce greasy fatty foods and alcohol consumption.
+
+INSTRUCTIONS
+
+Send MyChart message in 1 month regarding any side effects of issues with Elavil or if dose adjustments are needed.
+
+Return to clinic in 1 month or sooner if needed.",test_53,['K58.9']
+240617165712893DAGCIE,"CHIEF COMPLAINT
+
+Follow up adult hydrocephalus, 3 months status post shunt surgery.
+
+HISTORY OF PRESENT ILLNESS
+
+Mr. Christopher Watson is an 86-year-old male who returns in follow up of adult hydrocephalus. This is his first visit since undergoing shunt surgery 08/01/2020. He is accompanied by his daughter, Theresa, together they give his history.
+
+I have followed Mr. Watson since May 2020. He presented with 8-10 years of progressive gait impairment, cognitive impairment, and decreased bladder control. We established a diagnosis of adult hydrocephalus with the spinal catheter protocol in June 2020 and he underwent shunt surgery on 08/01/2020. A Medtronic Strata programmable shunt in the ventriculoperitoneal configuration programmed at level 2.0 was placed.
+
+Mr. Watson has had no hospitalizations or other illnesses since I last saw him. With respect to his walking, his daughter states that he is now able to walk to the dining room just fine but could not before his surgery. His balance has improved though he still has some walking impairment. With respect to his bladder control, initially there was some improvement, but he has leveled off and he wears a diaper. With respect to his cognition, both Theresa and the patient say that his thinking has improved. The other daughter, Hannah summarized it best according to the two of them, she said “I feel like I can have a normal conversation with him again.” Mr. Watson has had no headaches and no pain at the shunt site or in the abdomen.
+
+PAST HISTORY
+
+Urinary incontinence.
+
+Adult hydrocephalus.
+
+Gait impairment.
+
+Cognitive impairment.
+
+REVIEW OF SYSTEMS
+
+• Constitutional Symptoms: Significant for impaired ability to carry out daily functions. Negative for fever or unintentional weight loss.
+
+• Genitourinary: Significant for urinary incontinence and wearing a diaper. Negative for genital sores, decreased or painful output.
+
+• Neurological: Significant for continued walking impairment and cognitive impairment. Negative for headaches, recent falls, or hallucinations.
+
+• Psychiatric: Negative for depression, excessive worrying, or mood swings.
+
+VITALS
+
+Blood pressure 124/80, heart rate is 64, respiratory rate is 18, weight 174 pounds, and pain is 0/10.
+
+PHYSICAL EXAM
+
+Constitutional
+
+Mr. Watson is a pleasant and cooperative man who is able to converse easily though his daughter adds some details.
+
+Head and Face
+
+The shunt site was clean, dry, and intact and confirmed at a setting of 2.0.
+
+Neurological
+
+Mental status: Tested for recent and remote memory, attention span, concentration, and fund of knowledge. He scored 26/30 on the MMSE when tested with spelling and 25/30 when tested with calculations. Of note, he was able to get two of the three memory words with cuing and the third one with multiple choice. This was a slight improvement over his initial score of 23/30 with calculations and 24/30 with spelling and at that time he was unable to remember any memory words with cuing and only one with multiple choice.
+
+Gait: Tested using the Tinetti assessment tool. He was tested without an assistive device and received a gait score of 6-8/12 and a balance of score of 12/16 for a total score of 18-20/28. This has slightly improved from his initial score of 15-17/28.
+
+Cranial Nerves: Pupils are equal. Extraocular movements are intact. Face symmetric. No dysarthria.
+
+Motor: Normal for bulk and strength.
+
+Coordination: Slow for finger-to-nose.
+
+RESULTS
+
+CT scan of the head from 10/15/2020: It shows a frontal horn span at the level of foramen of Munro of 4.6 cm with a 3rd ventricular contour that is flat with the span of 10 mm. By my reading, there is a tiny amount of blood in the right frontal region with just a tiny subdural collection. This was not noticed by the radiologist who stated no extra axial fluid collections. There is also substantial small vessel ischemic change.
+
+ASSESSMENT
+
+• Adult hydrocephalus.
+
+• Gait impairment.
+
+• Urinary incontinence and urgency.
+
+• Cognitive impairment.
+
+Mr. Watson has made some improvement with his hydrocephalus since shunt surgery. There is a tiny fluid collection in the right parietal region. I do not believe that this tiny amount of fluid is symptomatic, and it was not documented by the radiologist when he read the CT scan.
+
+Mr. Watson asked me about whether he will be able to drive again. Unfortunately, I think it is unlikely that his speed of movement will improve to a level that he will be able to pass a driver's safety evaluation, however, occasionally patients surprise me by improving enough over 9 to 12 months that they are able to pass such a test. I would certainly be happy to recommend such a test if I believe he is likely to pass it and he is always welcome to enroll in a driver's safety program without my recommendation, however, I think it is exceeding unlikely that he has the capability of passing this rigorous test at this time. I also think it is quite likely he will not regain sufficient speed of motion to pass such a test.
+
+PLAN
+
+I had a long discussion with the patient and his daughter. We are all pleased that he has started to make some improvement with his hydrocephalus because of the fluid collection in the right parietal region, I would like to leave the setting at 2.0 for another three months before we consider changing the shunt.
+
+INSTRUCTIONS
+
+Follow up in 3 months.",test_54,"['G91.9', 'R26.9', 'N39.41', 'G31.84']"
+240617165713588CIGEEA,"CHIEF COMPLAINT
+
+Hypertension.
+
+Alcohol use disorder.
+
+HISTORY OF PRESENT ILLNESS
+
+Amanda Taylor is an 72-year-old woman who presents for a follow-up for hypertension. History includes significant alcohol use disorder and mild hypercholesterolemia. At last visit on April 16, BP was 130/90. After presenting at 150/100 she was prescribed hydrochlorothiazide 12.5 mg by mouth once daily and lisinopril 20 mg by mouth once daily. CMP and CBC were essentially unremarkable.
+
+Mrs. Taylor admits to consuming alcohol 4-5 times a week and is interested in Naltrexone injections. She acknowledges that her blood pressure would likely improve if she stopped alcohol consumption. She is checking her blood pressure in the morning and evening, stating it is higher at night but will improve after sitting for a few minutes. She is averaged 135-145 or 150 over 95-110.
+
+She experienced side effects from lisinopril, such as headaches, “swooshing” in her left ear, and lethargy. She took half a dose and did not experience the side effects.
+
+PAST HISTORY
+
+Medical
+
+Hypertension.
+
+Hypercholesterolemia.
+
+Alcohol use disorder.
+
+CURRENT MEDICATIONS
+
+Lisinopril 20 mg tablet once daily.
+
+Hydrochlorothiazide 12.5 mg once daily.
+
+PHYSICAL EXAM
+
+Constitutional
+
+No distress. No fever. No tobacco or other substance use.
+
+Neurological
+
+Alert.
+
+Psychological
+
+She does not appear anxious, agitated or depressed.
+
+Neck
+
+JVP flat with a head at 90 degrees.
+
+Respiratory
+
+No cough or shortness of breath. Chest clear to percussion and auscultation. Unlabored breathing.
+
+Cardiovascular
+
+No CVA tenderness. Cardiac rhythm regular. No murmur. No gallop.
+
+Musculoskeletal
+
+No ankle edema.
+
+Integumentary
+
+Skin is moist. Good trigger.
+
+ASSESSMENT
+
+• Alcohol use disorder.
+
+• Hypertension.
+
+Mrs. Taylor presents for a follow-up for hypertension. History includes significant alcohol use disorder and mild hypercholesterolemia. At last visit on April 16, BP was 130/90. After presenting at 150/100 she was prescribed hydrochlorothiazide 12.5 mg by mouth once daily and lisinopril 20 mg by mouth once daily. CMP and CBC were essentially unremarkable.
+
+PLAN
+
+Alcohol use disorder
+
+I will start her on naltrexone which we have previously discussed. She will take the injectable form and start on May 17. We reviewed side effects and risks. The potential benefit of alcohol cessation would be highly beneficial to the patient.
+
+Hypertension
+
+She will continue taking lisinopril 10 mg/day and hydrochlorothiazide 12.5 mg daily. Quite possibly her blood pressure will improve significantly if she is able to completely stop consuming alcohol. Target BP is 130-140/70-80. I will see her back week of June 14 which likely will be the time of her second naltrexone injection.
+
+Recommend upgrading influenza vaccination and Shingrix #2, she defers this.
+
+INSTRUCTIONS
+
+Call the clinic with any questions. Make follow up appointment week of June 14th.",test_55,"['F10.20', 'I10']"
+240617165714280BAHAIF,"CHIEF COMPLAINT
+
+Full-spectrum sexually transmitted disease testing.
+
+HISTORY OF PRESENT ILLNESS
+
+Ms. Ross is a 23-year-old female who presents today as a new patient for full-spectrum STD testing.
+
+The patient states that she is having symptoms of discomfort, a change in discharge, and an odor in her vaginal region. She says that the right side of her vagina is starting to become painful but denies any fever or chills. She states that she recently learned her partner of 3 years has been engaging in sexual encounters with other people for quite some time, and she wants to be evaluated for all sexually transmitted diseases.
+
+Ms. Ross reports noticing a change in the odor, color, and consistency of her vaginal discharge last week. She notes that this did not alarm her until the right side of her vagina became painful and sore, which has not subsided. She states that she had an abnormal Pap Smear around the age of 20, but all her Pap Smears since then, including her most recent one approximately 6 months ago, have all been normal.
+
+PHYSICAL EXAM
+
+Genitourinary
+
+Pelvic exam: No external lesions, normal labia majora and labia minora. Normal physiological discharge with normal color and odor. Cervix is normal, vaginal wall is normal, no cervical motion tenderness or masses noted. Swabs were obtained for sexual transmitted disease testing.
+
+ASSESSMENT
+
+• Screening for sexually transmitted disease.
+
+PLAN
+
+Ms. Ross is a 23-year-old female who presents today as a new patient for full-spectrum STD testing. We will screen her today for gonorrhea, chlamydia, trichomoniasis, syphilis, HIV, and hepatitis C. Patient is high risk due to an abnormal pap smear in the past and the recent discovery of her sexual partner having multiple partners for some period of time. We will call the patient with the results of the laboratory testing.",test_56,['Z11.3']
+240617165714927IAFBCB,"CHIEF COMPLAINT
+
+Rheumatoid arthritis management.
+
+HISTORY OF PRESENT ILLNESS
+
+Mr. Nelson is a 72-year-old male who presents today for ongoing management of rheumatoid arthritis. He was last seen by me on 03/04/2021, where he received a steroid injection to his right knee. He continues to experience right knee pain and swelling. The pain level is 6/10. He notes when he stands after he has been sitting for a while, he has to use a cane to ""get his bearings."" The injection he received to the right knee at the last visit was only beneficial for a few weeks. The patient notes whole right leg swelling since the last visit. He usually wears support hose, which helps to some degree. He has not attended physical therapy.
+
+PHYSICAL EXAM
+
+Musculoskeletal
+
+Lower right extremity: Swollen right knee, slightly reduced range of motion. Skin warm to touch. Lower right leg pits with pressure.
+
+PROCEDURE
+
+Fluid aspiration and Steroid injection.
+
+Risks, benefits, and alternatives were explained. The risks of steroid injection were explained, including but not limited to, hypopigmentation, soft tissue atrophy, tendon ruptures, and transient hyperglycemia among others. Verbal consent was obtained. The right knee was accessed through the lateral approach with 3 mL of initially clear fluid then blood-tinged fluid. Then the right knee was prepped in a standard fashion. The right knee was injected with 80 mg triamcinolone and 1 mL lidocaine. The procedure was tolerated well with no complications. Post procedure instructions were given.
+
+ASSESSMENT
+
+• Rheumatoid arthritis management.
+
+• High risk medication use.
+
+• Right knee pain.
+
+• Lower extremity pitting edema.
+
+PLAN
+
+Rheumatoid arthritis management.
+
+The patient will continue Xeljanz XR 11 mg daily. He will also continue Celebrex 200 mg daily.
+
+High-risk medication use.
+
+The patient is currently on the high-risk medication Xeljanz. We will check his CMP levels and monitor periodically every couple of months.
+
+Right knee pain.
+
+He has right knee pain and swelling, with pain level 6/10. On exam today, the right knee continues to be hot, which is ongoing inflammation. We performed a fluid aspiration of the right knee today, see procedure note above. A steroid injection to the right knee was given today, see procedure note above. We will arrange for x-ray of the right knee and refer his to physical therapy.
+
+Lower extremity pitting edema.
+
+The patient notes whole right leg swelling since the last visit. He usually wears support hose, which helps to some degree. He has not seen his PCP. We discussed compression stockings, elevate feet, and a low salt diet. He will check with his PCP for further instructions.",test_57,"['M06.9', 'M25.561', 'R60.0', 'Z79.899']"
+240617165715654BABFBF,"CHIEF COMPLAINT
+
+Follow-up for perioral dermatitis.
+
+HISTORY OF PRESENT ILLNESS
+
+Jacqueline Miller is a 40-year-old female who is being seen today for a follow-up skin exam for perioral dermatitis. She also has a history of rosacea, including ocular rosacea. Today, she states that her perioral dermatitis is well-controlled, although it has not fully resolved. The patient was applying doxycycline twice a day with improvement, but her pharmacist advised her to reduce to once daily since it had started to improve; therefore, for approximately the past week, she has been using the doxycycline only once per day. She has not seen continued improvement but it has not worsened. She is using the sulfacetamide wash twice daily, denies drying of the skin, and reports that her skin is much improved moisturization. She also applies MetroCream immediately after using the sulfacetamide wash. She denies using other lotions and products, Cetaphil lotion or soap, or Neutrogena wipes. The patient did not begin Elidel because it is not covered by her insurance, and she was concerned about possible side effects from the medication.
+
+PAST HISTORY
+
+Medical
+
+Perioral dermatitis.
+
+CURRENT MEDICATIONS
+
+Doxycycline cream. Apply twice daily.
+
+MetroCream. 
+
+Sulfacetamide wash. Apply topically twice daily.
+
+PHYSICAL EXAM
+
+Integumentary
+
+Skin inspection of the face was performed today. On bilateral medial cheeks, there are a few, very faint, erythematous papules with mild redness around and underneath the nostrils. Fitzpatrick skin type is 4 to 5.
+
+ASSESSMENT
+
+• Perioral dermatitis
+
+• Rosacea, including ocular rosacea
+
+Jacqueline Miller is a 40-year-old female who presented today for follow-up for her perioral dermatitis, which has improved but not resolved. She decreased her doxycycline per her pharmacist’s recommendation, which possibly stagnated the resolution of symptoms.
+
+PLAN
+
+Perioral dermatitis.
+
+I counseled the patient about the risks and benefits of doxycycline and recommended she resume twice daily application until she reaches full resolution, and at that point she should reduce application to once a day for an additional week. The patient will not be using Elidel as I reviewed the cost of the medication and without insurance, it was too expensive. I provided a prescription for Tacrolimus and counseled her on possible side effects of using the medication. She will continue with Sulfacetamide face wash once a day. Also, use Bruder mask as needed.
+
+Rosacea, including ocular rosacea.
+
+Continue using MetroCream twice daily. I recommended to gently wash her eyelids once daily with a gentle cleanser and try a gentle cream such as Vanicream.
+
+INSTRUCTIONS
+
+Call the clinic if symptoms worsen. The patient will have a follow-up appointment in 4 weeks.",test_58,"['L71.0', 'L71.8']"
+240617165716445DEIDFG,"CHIEF COMPLAINT
+
+Abdominal pain.
+
+MEDICAL HISTORY
+
+Patient reports history of type 2 diabetes.
+
+SOCIAL HISTORY
+
+Patient reports enjoying nature photography.
+
+FAMILY HISTORY
+
+Patient reports family history of cholelithiasis. Both of his parents have had cholecystectomies.
+
+REVIEW OF SYSTEMS
+
+Constitutional: Reports low-grade fevers.
+
+Gastrointestinal: Reports right-sided abdominal pain and nausea. Denies vomiting.
+
+VITALS
+
+Blood Pressure: 128/88 mmHg.
+
+Respiratory Rate: 16 breaths per minute.
+
+Heart Rate: 68 beats per minute.
+
+Oxygen Saturation: 99% on room air.
+
+Body Temperature: Afebrile.
+
+PHYSICAL EXAM
+
+Respiratory
+
+- Auscultation of Lungs: Clear and equal bilaterally.
+
+Cardiovascular
+
+- Auscultation of Heart: Regular rate and rhythm. No ectopic beats. No murmurs, clicks, or rubs.
+
+Gastrointestinal
+
+- Examination of Abdomen: Soft, nondistended abdomen. Positive slight guarding to the right upper quadrant, but without rebound tenderness. Positive for Murphy signs. Peritoneal signs not appreciated.
+
+- Auscultation: Bowel sounds normal in all 4 quadrants.
+
+RESULTS
+
+Abdominal ultrasound obtained at an outside facility is reviewed today. This demonstrates multiple gallstones present in the gallbladder. I do appreciate some mild thickening. The common bile duct size is within normal limits at 4.1 mm.
+
+ASSESSMENT AND PLAN
+
+1. Mild cholecystitis with gallstones.
+
+- Medical Reasoning: Based on the patient's symptoms, exam findings, and ultrasound, I do believe he has some mild cholecystitis with gallstones. I do not appreciate any frank obstruction, but it looks like his gallbladder is inflamed. This appears to have happened maybe over the last few weeks or since he has been symptomatic.
+
+- Patient Education and Counseling: I had a thorough discussion with the patient concerning surgical treatment. The preoperative, intraoperative, and postoperative courses of care were described and discussed. I explained the surgery will take approximately 1 to 1.5 hours, and he will probably spend the night in the hospital for post-procedure monitoring. We also discussed that he should avoid high fat foods after surgery and eat foods that are high in fiber. All questions were answered.
+
+- Medical Treatment: Since he has not had any improvement with dietary modifications, I recommend a laparoscopic cholecystectomy. A mutually agreed upon surgical date has been scheduled for 1 week.
+
+2. Type 2 diabetes.
+
+- Medical Reasoning: The patient is currently managing his diabetes with diet and exercise.
+
+- Patient Education and Counseling: I advised the patient he should refrain from hiking in the immediate postoperative period; however, he may return to walking outdoors on solid ground 1 week status post-surgery.
+
+Medical Treatment: I recommended he follow up with his physician regarding his impending surgery. We will continue to monitor his diabetes as has been outlined by either his endocrinologist or his primary care provider.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.
+
+INSTRUCTIONS
+
+The patient will follow up with me 1 week status post-surgery.",test_59,"['K81.9', 'E11.9']"
+240617165717946IHIAAB,"HISTORY OF PRESENT ILLNESS
+
+Jeremy Adams is a pleasant 57-year-old male who presents to the clinic today for the evaluation of low back pain. The onset of his pain began 4 months ago, when he was moving boxes out of his son’s college dorm. At that time, he noted tingling in his right toes, which resolved after approximately 1 hour. After his injury, he felt as though he was unable to support his upper body weight. The patient reports weakness in his legs when carrying heavy objects. He reports a sharp pain in his lower back when he turns a certain way or rolls over in his sleep. The pain will resolve with repositioning. The patient was seen at urgent care and was referred to obtain an MRI, however he did not undergo this secondary to insurance issues. He has been utilizing Tylenol, ibuprofen, heat, and ice for pain, which does not provide relief. The patient notes the ibuprofen is slightly more beneficial than the Tylenol, however it does not relieve his symptoms. He denies upset stomach with the use of ibuprofen. Additionally, he attempted physical therapy at his gym without any relief. He denies any bladder or bowels issues, fevers, and chills.
+
+SURGICAL HISTORY
+
+The patient has a history of a right total knee arthroplasty 2 years ago, in spring of 2020. He states that his right knee feels 95% improved since the surgery.
+
+REVIEW OF SYSTEMS
+
+Constitutional: Denies fevers or chills.
+
+Gastrointestinal: Denies bowel issues.
+
+Genitourinary: Denies bladder issues.
+
+Musculoskeletal: Reports lower back pain.
+
+VITALS
+
+Temperature: Normal.
+
+Blood pressure: 117/56 mm Hg.
+
+Heart rate: 68 BPM.
+
+Oxygenation: 95% on room air.
+
+PHYSICAL EXAM
+
+NECK: Bony protuberance of the C5-C6. No pain to palpation of the C5-C6
+
+MSK: Examination of the Lumbar spine: No pain to palpation of the lumbar spine. Decreased flexion and extension of the lower back. Positive straight leg raise. Spasm of the paraspinal muscles of the lumbar spine. Strength is equal bilaterally.
+
+RESULTS
+
+X-rays of the lumbar spine were reviewed. These reveal no acute bony abnormalities.
+
+ASSESSMENT
+
+Low back pain, possible acute disc herniation.
+
+PLAN
+
+After reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with the patient in regards to his current symptoms. His x-rays did not reveal any signs of a fracture. I would like to obtain an MRI of the lumbar spine to evaluate for a possible acute disc herniation. I have prescribed the patient meloxicam 15 mg to treat his pain. He will continue with physical therapy and a referral was provided for this today.",test_61,['M54.50']
+240617165718667AGAHEF,"CHIEF COMPLAINT
+
+Shortness of breath with hemoptysis.
+
+MEDICAL HISTORY
+
+Patient reports history of diabetes, hypertension, and asthma. He also has a long history of knee pain.
+
+MEDICATIONS
+
+Patient reports taking metformin and Norvasc.
+
+REVIEW OF SYSTEMS
+
+Constitutional: Denies fever.
+
+HENT: Denies bleeding gums.
+
+Respiratory: Reports shortness of breath, hemoptysis.
+
+Musculoskeletal: Reports knee pain. Denies lower extremity edema.
+
+Hematologic/Lymphatic: Denies bruising.
+
+VITALS
+
+Pulse oxygenation: 94 percent. Blood pressure: 120/70 mm Hg.
+
+PHYSICAL EXAM
+
+Neck
+
+- General Examination: Neck is supple. No JVD. No carotid bruits.
+
+Respiratory
+
+- Auscultation of Lungs: Some rales and rhonchi, more on the right. No wheezing right now. There is some diminished breath sounds in the right as well.
+
+Cardiovascular
+
+- Auscultation of Heart: Regular rate. 2/6 systolic ejection murmur, unchanged from before.
+
+Gastrointestinal
+
+- Examination of Abdomen: Soft.
+
+Musculoskeletal
+
+- Examination: 1+ nonpitting edema on bilateral lower extremities. No calf tenderness. Negative Homan's sign.
+
+Hematology/Lymphatic/Immunology
+
+- Examination: No bruising.
+
+ASSESSMENT AND PLAN
+
+1. Shortness of breath.
+
+- Medical Reasoning: The patient has been coughing up blood.
+
+- Patient Education and Counseling: We discussed the importance of further testing as his symptoms could be as simple as a pneumonia or something more serious.
+
+- Medical Treatment: I have ordered a chest x-ray, CT scan, and blood work to be done in the ER. I have instructed the patient to go into the ER immediately after this appointment and I will call ahead.
+
+2. Diabetes.
+
+- Medical Reasoning: The patient's blood sugar has not been well controlled.
+
+- Medical Treatment: I have ordered an updated A1c today. He will increase his metformin to 750 mg twice daily.
+
+3. Hypertension.
+
+- Medical Reasoning: His blood pressure has been running low for approximately 3 weeks. I believe this could be caused by his shortness of breath. I would like to get a better understanding of the cause of his shortness of breath prior to pursuing further treatment for his hypertension.
+
+- Medical Treatment: At this time, he will discontinue the use of Norvasc.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.
+
+INSTRUCTIONS
+
+We will have him follow up in about 3 weeks to just discuss his diabetes and further treatment recommendations.",test_62,"['R06.02', 'E11.9', 'I10']"
