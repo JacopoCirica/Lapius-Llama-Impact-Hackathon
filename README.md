@@ -3,7 +3,7 @@
 **Lapius** is a powerful Multi-agent application that empowers medical coders and patients to extract medical codes (ICD-10-CM) from medical records or explain the meaning of codes found in medical bills or EOB. By leveraging the advanced capabilities of LLaMA 3.1 (405B and 90B) and the multimodl LLaMA 3.2 (11B) models, Lapius allows you to work with both textual data and images.  
 
 ---
-
+![Preview](asset/preview.jpg)
 ## Table of Contents
 
 - [Features](#features)
@@ -32,12 +32,12 @@
 3. **Get the results**: One section will be devoted to the exploration of response with text references and alternative codes. .
 
 
-![Architechture](https://iili.io/23ovJmx.png)
+![Architechture](asset/architecture.png)
 
 ---
 
 ## Usage
-
+![icd-10](asset/image-lapius.png)
 1. **Launch the App**: Click on the link.
 2. **Create a New Chatbot**:
     - Click on the **"Create Chatbot"** button.
@@ -53,7 +53,7 @@
     - The app limits the number of concurrently downloaded models to manage device memory efficiently. You can download and deploy multiple chatbots as needed.
 7. **Interact with Documents**:
     - Utilize the document interaction feature to chat with your uploaded documents seamlessly within the app.
-
+![cpt](asset/image-lapius2.jpg)
 ---
 
 ## Technical Details
@@ -67,8 +67,9 @@
 - **Offline Deployment**: Models are stored locally on the device, enabling offline interactions.
 - **Security**: Implements robust security measures to ensure data privacy and integrity.
 
-
+ 
 ---
+![MoA Architecture](asset/moa.jpg)
 
 ## Limitations and Next steps
 
