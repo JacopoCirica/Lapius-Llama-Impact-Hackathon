@@ -1,4 +1,4 @@
-#  Lapius: Automatic Medical Coderr
+#  Lapius: Automatic Medical Coder
 
 **Lapius** is a powerful Multi-agent application that empowers medical coders and patients to extract medical codes (ICD-10-CM) from medical records or explain the meaning of codes found in medical bills or EOB. By leveraging the advanced capabilities of LLaMA 3.1 (405B and 90B) and the multimodl LLaMA 3.2 (11B) models, Lapius allows you to work with both textual data and images.  
 
