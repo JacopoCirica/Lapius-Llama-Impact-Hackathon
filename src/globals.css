@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .bg-grid {
+      background-image: 
+        linear-gradient(transparent 99%, rgba(255, 255, 255, 0.4) 99%),
+        linear-gradient(90deg, transparent 99%, rgba(255, 255, 255, 0.4) 99%);
+      background-size: 50px 50px;
+    }
+  }
+  
