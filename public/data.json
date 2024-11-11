@@ -1,0 +1,53 @@
+[
+    {
+      "text_reference": "Upper respiratory infection of lungs",
+      "list_of_entities": [
+        {
+          "icd10": "J06.9",
+          "supported_evidence": "The text reference specifically mentions 'Upper respiratory infection' which matches the description of the ICD-10 code J06.9, 'Acute upper respiratory infection, unspecified'. This code is the most suitable as it directly addresses the condition described in the clinical note."
+        },
+        {
+          "icd10": "J06",
+          "supported_evidence": "This code, 'Acute upper respiratory infections of multiple and unspecified sites', is a close match as it mentions upper respiratory infections but is less specific than J06.9."
+        },
+        {
+          "icd10": "J22",
+          "supported_evidence": "Although the text reference mentions 'Upper respiratory infection of lungs', the description 'Unspecified acute lower respiratory infection' of J22 might be considered as the lungs are involved, but it is less specific to the upper respiratory aspect."
+        },
+        {
+          "icd10": "J39.9",
+          "supported_evidence": "This code, 'Disease of upper respiratory tract, unspecified', while related, is broader and does not specifically denote an infection."
+        },
+        {
+          "icd10": "J39",
+          "supported_evidence": "Similar to J39.9, 'Other diseases of upper respiratory tract' is a broader category and does not specifically indicate an infection, making it the least specific of the top 5 choices."
+        }
+      ]
+    },
+    {
+      "text_reference": "Depression",
+      "list_of_entities": [
+        {
+          "icd10": "F32.9",
+          "supported_evidence": "The clinical note mentions 'Depression' without specifying if it's a single episode or recurrent, but since 'F32.9' is for 'Major depressive disorder, single episode, unspecified', it is the most suitable choice."
+        },
+        {
+          "icd10": "F33.9",
+          "supported_evidence": "This code is for 'Major depressive disorder, recurrent, unspecified' and could be a good fit if the depression is recurrent, but the note does not specify this."
+        },
+        {
+          "icd10": "F32",
+          "supported_evidence": "This is a more general code for 'Major depressive disorder, single episode' and does not provide additional specificity."
+        },
+        {
+          "icd10": "F33",
+          "supported_evidence": "Similar to 'F32', this code is for 'Major depressive disorder, recurrent' but lacks specificity."
+        },
+        {
+          "icd10": "F32.89",
+          "supported_evidence": "This code is for 'Other specified depressive episodes' but the clinical note does not provide enough information to justify this level of specificity."
+        }
+      ]
+    }
+  ]
+  
